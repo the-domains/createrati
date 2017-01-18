@@ -4,16 +4,16 @@ description: >-
   This year, I made a commitment to myself to be more open. So what I am about
   to write can be raw. Yet I feel like it needs to be said, in case there’s
   someone out there needing to figure out forgiveness.
-dateModified: '2017-01-18T01:16:22.506Z'
-datePublished: '2017-01-18T01:16:23.299Z'
+dateModified: '2017-01-18T01:57:36.040Z'
+datePublished: '2017-01-18T01:57:37.569Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: >-
   _posts/2017-01-11-this-year-i-made-a-commitment-to-myself-to-be-more-open-so.md
-datePublishedOriginal: '2017-01-18T01:16:23.299Z'
 starred: false
+datePublishedOriginal: '2017-01-18T01:16:23.299Z'
 _type: Blurb
 
 ---
