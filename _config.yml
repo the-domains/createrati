@@ -33,7 +33,32 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb40f0ae-50da-405d-a939-ee1c7e264f5a.png
 title: CREATERATI
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8361d4fa-b89d-4fd4-aee9-10e3d1ed75aa.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/8361d4fa-b89d-4fd4-aee9-10e3d1ed75aa.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: A creative movement for game-changing entrepreneurs & explorers.
 purpose:
   - type: external
