@@ -6,8 +6,8 @@ keywords: []
 description: >-
   Visiting Melbourne? Here are our favourite spots that we always recommend to
   visiting guests, family and friends.
-datePublished: '2017-01-18T05:42:58.505Z'
-dateModified: '2017-01-18T05:42:54.590Z'
+datePublished: '2017-01-18T05:51:15.912Z'
+dateModified: '2017-01-18T05:51:12.756Z'
 title: Eight Corners Awards
 author: []
 sourcePath: _posts/2016-03-08-best-of-melbourne-2016.md
