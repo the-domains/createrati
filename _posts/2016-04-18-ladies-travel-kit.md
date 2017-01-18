@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2017-01-18T05:51:19.090Z'
-dateModified: '2017-01-18T05:51:12.756Z'
+datePublished: '2017-01-18T09:18:41.125Z'
+dateModified: '2017-01-18T09:18:37.397Z'
 title: Ladies Travel Kit
 author:
   - name: ''
