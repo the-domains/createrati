@@ -7,16 +7,16 @@ description: >-
   Planning your dream destination wedding can be daunting—I had to do months of
   research when I was planning mine, and I had trouble finding a definitive
   guide that would have saved me time doing all the research.
-datePublished: '2017-01-18T01:16:26.149Z'
-dateModified: '2017-01-18T01:16:25.219Z'
+datePublished: '2017-01-18T01:57:38.044Z'
+dateModified: '2017-01-18T01:57:36.040Z'
 title: ''
 author: []
 authors: []
 publisher: {}
 sourcePath: _posts/2016-03-07-how-i-planned-my-dream-destination-wedding-in-palawan.md
-datePublishedOriginal: '2017-01-18T01:16:26.149Z'
 via: {}
 starred: false
+datePublishedOriginal: '2017-01-18T01:16:26.149Z'
 url: how-i-planned-my-dream-destination-wedding-in-palawan/index.html
 _type: Article
 
