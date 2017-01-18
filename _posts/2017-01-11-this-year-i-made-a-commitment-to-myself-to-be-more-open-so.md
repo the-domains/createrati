@@ -4,20 +4,24 @@ description: >-
   This year, I made a commitment to myself to be more open. So what I am about
   to write can be raw. Yet I feel like it needs to be said, in case there’s
   someone out there needing to figure out forgiveness.
-dateModified: '2017-01-18T01:57:36.040Z'
-datePublished: '2017-01-18T01:57:37.569Z'
+dateModified: '2017-01-18T02:04:05.128Z'
+datePublished: '2017-01-18T02:04:06.144Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: >-
   _posts/2017-01-11-this-year-i-made-a-commitment-to-myself-to-be-more-open-so.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-01-18T01:16:23.299Z'
-_type: Blurb
+url: this-year-i-made-a-commitment-to-myself-to-be-more-open-so/index.html
+_type: Article
 
 ---
 > "My favorite definition \[of forgiveness\] is giving up the hope that the past could be any different."--- Oprah
+
+---
 
 This year, I made a commitment to myself to be more open. So what I am about to write can be raw. Yet I feel like it needs to be said, in case there's someone out there needing to figure out forgiveness.
 
@@ -29,7 +33,7 @@ It turns out that my definition of forgiveness was different from what others ex
 
 I've long forgiven my mother for leaving us by accepting the fact that she would never return and reunite with my father. I've learned to accept that it was for the best.
 
-I've long forgiven my stepmother for not loving us like her own, because I've accepted that not many people can love children that are not their own. 
+I've long forgiven my stepmother for not loving us like her own, because I've accepted that not many people can love children that are not their own.
 
 Sometimes happy endings doesn't have to be by being with the same people that hurt you in the first place. Especially if you've already tried a few times to make it work.
 
