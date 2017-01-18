@@ -9,8 +9,8 @@ description: >-
   the tendency to not want to miss out, and so the word NO becomes almost hard
   to pronounce. As young kids, we were taught to be nice, but somehow, someone
   forgot to tell us to first be nice to ourselves, then be nice to others.
-datePublished: '2017-01-18T01:57:37.655Z'
-dateModified: '2017-01-18T01:57:36.040Z'
+datePublished: '2017-01-18T05:43:00.400Z'
+dateModified: '2017-01-18T05:42:54.590Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-27-how-to-set-boundaries.md
