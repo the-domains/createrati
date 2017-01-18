@@ -1,18 +1,18 @@
 ---
-datePublished: '2017-01-18T01:16:23.339Z'
+datePublished: '2017-01-18T01:57:37.483Z'
 sourcePath: _posts/2016-11-01-awesome-gifts-for-entrepreneurs-christmas-2016.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-18T01:16:22.567Z'
+dateModified: '2017-01-18T01:57:36.040Z'
 title: Awesome Gifts for Entrepreneurs - Christmas 2016
 publisher: {}
 description: >-
   It’s that time of the year again! If you’re stressing out over what to get
   entrepreneurs and business people in your life, here are my top picks!
-datePublishedOriginal: '2017-01-18T01:16:23.339Z'
 starred: false
+datePublishedOriginal: '2017-01-18T01:16:23.339Z'
 url: awesome-gifts-for-entrepreneurs-christmas-2016/index.html
 _type: Article
 
