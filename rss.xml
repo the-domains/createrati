@@ -4,9 +4,16 @@
         <description><![CDATA[CREATERATI]]></description>
         <link>http://blog.eightcorners.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Jan 2017 01:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2017 01:18:22 GMT</lastBuildDate>
         <atom:link href="http://blog.eightcorners.co/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Jan 2017 01:16:41 GMT</pubDate>
+        <pubDate>Wed, 18 Jan 2017 01:16:42 GMT</pubDate>
+        <item>
+            <title><![CDATA[Work with templates, not against them]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed1eed53-ce08-442f-a1ae-2031ae9ef8d3.jpg" title="Work with templates, not against them" alt="#wordsofwinedom">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed1eed53-ce08-442f-a1ae-2031ae9ef8d3.jpg</link>
+            <guid isPermaLink="false">67569962-1bee-45f6-99fd-e1d9050ed58d</guid>
+            <pubDate>Wed, 18 Jan 2017 01:16:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ladies Travel Kit]]></title>
             <description><![CDATA[<p>Ladies Travel Kit</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14f722f7-2c93-4901-be49-3f62df5016d5.jpg" alt="" title="Ladies Travel Kit">]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<h1>Creative Business Resources</h1>,<p>For the past few years, I've realised that for creatives (web designers, graphic designers, photographers, copywriters and writers), starting a business is tougher than anything else I've ever attempted in my life.</p>,<p>It's totally different from my life in IT where my work is validated by machines—computers will tell you whether you did the right thing or not.</p>]]></description>
             <link>http://blog.eightcorners.co/creative-business-resources/index.html</link>
             <guid isPermaLink="false">e686599e-1732-46db-b687-66c155fe6031</guid>
-            <pubDate>Wed, 18 Jan 2017 01:16:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Graphic Design]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16fbc7ca-b365-4a5f-9a8a-f400343f925b.jpg">,<h1>Graphic Design</h1>,<h2>1. <a href="https://canva.com/">Canva</a></h2>,<p>Almost everybody knows Canva, but I'm still including it as a hack for those who don't know about it yet. It's great for quick graphics and inspiration. With Canva for work, you get the convenience of having consistent visuals. But if you prefer to use it for free, check out Design Feed (a tool I've classified under social media due to its main purpose of providing ease for generating social media graphics).</p>]]></description>
-            <link>http://blog.eightcorners.co/graphic-design/index.html</link>
-            <guid isPermaLink="false">1069f93a-1829-47ca-b6c9-cdcb43aec9e2</guid>
             <pubDate>Wed, 18 Jan 2017 01:16:24 GMT</pubDate>
         </item>
     </channel>
