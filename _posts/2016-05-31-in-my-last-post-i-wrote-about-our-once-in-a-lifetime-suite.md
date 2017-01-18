@@ -6,17 +6,17 @@ keywords: []
 description: >-
   In my last post, I wrote about our once-in-a-lifetime suite class flight
   experience with Singapore Airlines.
-datePublished: '2017-01-18T01:16:23.237Z'
-dateModified: '2017-01-18T01:16:22.851Z'
+datePublished: '2017-01-18T01:57:37.620Z'
+dateModified: '2017-01-18T01:57:36.040Z'
 title: How We Earned Frequent Flyer Miles To Get First Class Tickets...And Better
 author: []
 sourcePath: >-
   _posts/2016-05-31-in-my-last-post-i-wrote-about-our-once-in-a-lifetime-suite.md
 authors: []
 publisher: {}
-datePublishedOriginal: '2017-01-18T01:16:23.237Z'
 via: {}
 starred: false
+datePublishedOriginal: '2017-01-18T01:16:23.237Z'
 url: how-we-earned-frequent-flyer-miles-to-get-first-class-ticket/index.html
 _type: Article
 
