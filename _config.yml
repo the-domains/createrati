@@ -1,0 +1,34 @@
+typography_spectrum: 0.17625997601482687
+color:
+  brandStrength: 0.6329350225928949
+  lightness: 0.8524402175435224
+  saturation: 0.9043259008630815
+  rhythmicContrast: 0.6409649340293859
+  brandColors:
+    - '#E0BE98'
+    - '#B05DE8'
+    - '#070707'
+    - '#C8BFC7'
+    - '#080808'
+github: true
+layout_spectrum: 0.01776697023043243
+analytics:
+  facebook: '999007766816091'
+  google: UA-17071199-1
+author:
+  name: Gretchen Oris-Chong
+  email: hello@eightcorners.co
+  url: 'http://eightcorners.co'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/494529e2-cfa3-44fe-ae67-c9431174954e.png
+name: Eight Corners Blog
+url: 'https://blog.eightcorners.co'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb40f0ae-50da-405d-a939-ee1c7e264f5a.png
+title: CREATERATI
+content: []
+description: a creative movement for game-changing entrepreneurs
+purpose:
+  - type: external
+    url: 'https://paperform.co/form/appealing-brand'
+    label: 8 Simple Steps to An Appealing Brand
