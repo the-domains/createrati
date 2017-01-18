@@ -6,8 +6,8 @@ keywords: []
 description: >-
   There is so much noise in this world. So many things are wanting our
   attention.
-datePublished: '2017-01-18T01:16:24.825Z'
-dateModified: '2017-01-18T01:16:24.362Z'
+datePublished: '2017-01-18T01:57:37.528Z'
+dateModified: '2017-01-18T01:57:36.040Z'
 title: Embrace the Emptiness
 author:
   - name: ''
@@ -15,9 +15,9 @@ author:
 sourcePath: _posts/2016-03-29-embrace-the-emptiness.md
 authors: []
 publisher: {}
-datePublishedOriginal: '2017-01-18T01:16:24.825Z'
 via: {}
 starred: false
+datePublishedOriginal: '2017-01-18T01:16:24.825Z'
 url: embrace-the-emptiness/index.html
 _type: Article
 
