@@ -27,6 +27,9 @@ navigation:
   - name: home
     url: 'https://eightcorners.co'
     type: external
+  - name: shop
+    url: 'https://www.etsy.com/au/shop/eightcornerscreative'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb40f0ae-50da-405d-a939-ee1c7e264f5a.png
 title: CREATERATI
