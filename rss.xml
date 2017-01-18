@@ -4,14 +4,21 @@
         <description><![CDATA[CREATERATI]]></description>
         <link>http://blog.eightcorners.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Jan 2017 01:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2017 01:18:00 GMT</lastBuildDate>
         <atom:link href="http://blog.eightcorners.co/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Jan 2017 01:16:38 GMT</pubDate>
+        <pubDate>Wed, 18 Jan 2017 01:16:40 GMT</pubDate>
         <item>
             <title><![CDATA[New York Like A Local]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bbd4088-49db-4db7-a90e-c85572ec16f2.jpg">,<h1>New York Like A Local</h1>]]></description>
             <link>http://blog.eightcorners.co/new-york-like-a-local/index.html</link>
             <guid isPermaLink="false">e0a36e94-6fcb-4e92-aac8-7c09617d20bd</guid>
+            <pubDate>Wed, 18 Jan 2017 01:16:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top Inspirational Books]]></title>
+            <description><![CDATA[<h1>Top Inspirational Books</h1>,<h2><a href="http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537">Steve Jobs</a> by Walter Isaacson</h2>]]></description>
+            <link>http://blog.eightcorners.co/top-inspirational-books/index.html</link>
+            <guid isPermaLink="false">0b2cdbe3-a63d-4809-9875-23a565e6294b</guid>
             <pubDate>Wed, 18 Jan 2017 01:16:26 GMT</pubDate>
         </item>
         <item>
@@ -69,13 +76,6 @@
             <link>http://blog.eightcorners.co/a-weekend-in-queenstown-new-zealand/index.html</link>
             <guid isPermaLink="false">0bcb1cca-bc20-4cf6-ac81-559def495253</guid>
             <pubDate>Wed, 18 Jan 2017 01:16:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eight Corners Awards]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e3c4bad-03a6-4f8c-85bd-60c9f691b432.jpg">,<p>Visiting Melbourne? Here are our favourite spots that we always recommend to visiting guests, family and friends.</p>,<h2>Eight Corners Awards</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d216971a-478e-4f27-a6d6-1e0279eeb066.jpg">]]></description>
-            <link>http://blog.eightcorners.co/eight-corners-awards/index.html</link>
-            <guid isPermaLink="false">9d5736ca-f68b-4198-b394-ae8d73270788</guid>
-            <pubDate>Wed, 18 Jan 2017 01:16:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
