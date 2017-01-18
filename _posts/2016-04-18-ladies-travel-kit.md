@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2017-01-18T01:16:27.182Z'
-dateModified: '2017-01-18T01:16:26.718Z'
+datePublished: '2017-01-18T01:57:37.425Z'
+dateModified: '2017-01-18T01:57:36.040Z'
 title: Ladies Travel Kit
 author:
   - name: ''
@@ -14,9 +14,9 @@ author:
 sourcePath: _posts/2016-04-18-ladies-travel-kit.md
 authors: []
 publisher: {}
-datePublishedOriginal: '2017-01-18T01:16:27.182Z'
 via: {}
 starred: false
+datePublishedOriginal: '2017-01-18T01:16:27.182Z'
 url: ladies-travel-kit/index.html
 _type: Article
 
