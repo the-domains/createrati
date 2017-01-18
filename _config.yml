@@ -23,6 +23,10 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/494529e2-cfa3-44fe-ae67-c9431174954e.png
 name: Eight Corners Blog
 url: 'https://blog.eightcorners.co'
+navigation:
+  - name: home
+    url: 'https://eightcorners.co'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb40f0ae-50da-405d-a939-ee1c7e264f5a.png
 title: CREATERATI
