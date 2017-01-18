@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: "Hello, everyone. I know, I missed Week 10, but here are some juicy new links for you that will totally make up for my being AWOL.\_"
-datePublished: '2017-01-18T05:51:17.286Z'
-dateModified: '2017-01-18T05:51:12.756Z'
+datePublished: '2017-01-18T07:26:11.124Z'
+dateModified: '2017-01-18T07:26:08.586Z'
 title: Design Hacks for Your Business
 author: []
 sourcePath: _posts/2016-03-18-design-hacks-for-your-business.md
