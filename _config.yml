@@ -21,7 +21,7 @@ author:
   url: 'http://eightcorners.co'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cd473aa-bc4f-4ce5-bf81-a6db6c678df5.png
-name: Eight Corners Blog
+name: eight corners blog
 url: 'https://blog.eightcorners.co'
 navigation:
   - name: home
@@ -35,4 +35,4 @@ description: A creative movement for game-changing entrepreneurs & explorers.
 purpose:
   - type: external
     url: 'https://paperform.co/form/appealing-brand'
-    label: 8 Simple Steps to An Appealing Brand
+    label: 'FREE Cheatsheet: 8 Simple Steps to An Appealing Brand'
