@@ -6,8 +6,8 @@ keywords: []
 description: >-
   In my last post, I wrote about our once-in-a-lifetime suite class flight
   experience with Singapore Airlines.
-datePublished: '2017-01-19T06:20:25.993Z'
-dateModified: '2017-01-19T06:20:20.694Z'
+datePublished: '2017-01-19T14:44:53.276Z'
+dateModified: '2017-01-19T14:44:52.457Z'
 title: How We Earned Frequent Flyer Miles To Get First Class Tickets...And Better
 author: []
 sourcePath: >-
@@ -26,6 +26,8 @@ _type: Article
 In my last post, I wrote about our [once-in-a-lifetime suite class flight experience with Singapore Airlines][0].
 
 Our two Suite Class return tickets from Singapore to New York were all from the miles we've earned over the years. And you can totally do the same!
+
+---
 
 Here are our top tips on optimising your miles earnings:
 
