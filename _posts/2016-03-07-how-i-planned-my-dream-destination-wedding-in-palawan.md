@@ -7,8 +7,8 @@ description: >-
   Planning your dream destination wedding can be daunting—I had to do months of
   research when I was planning mine, and I had trouble finding a definitive
   guide that would have saved me time doing all the research.
-datePublished: '2017-01-19T14:18:52.321Z'
-dateModified: '2017-01-19T14:18:51.198Z'
+datePublished: '2017-01-19T14:53:34.858Z'
+dateModified: '2017-01-19T14:53:31.341Z'
 title: ''
 author: []
 authors: []
