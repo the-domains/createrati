@@ -6,8 +6,8 @@ keywords: []
 description: >-
   Visiting Melbourne? Here are our favourite spots that we always recommend to
   visiting guests, family and friends.
-datePublished: '2017-01-19T06:20:24.864Z'
-dateModified: '2017-01-19T06:20:20.694Z'
+datePublished: '2017-01-19T14:18:33.998Z'
+dateModified: '2017-01-19T14:18:33.031Z'
 title: Eight Corners Awards
 author: []
 sourcePath: _posts/2016-03-08-best-of-melbourne-2016.md
@@ -20,15 +20,17 @@ url: eight-corners-awards/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e3c4bad-03a6-4f8c-85bd-60c9f691b432.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ac184dcc71ef01108e232077a435bfa79069d2a.jpg)
 
 Visiting Melbourne? Here are our favourite spots that we always recommend to visiting guests, family and friends.
+
+## Eight Corners Awards
+
+---
 
 Of course, there are lots more to try that may be better than our recommendations below, but these are tried and tested places that we always go back to and 99.9% of the time, they don't disappoint.
 
 Let's call this the:
-
-## Eight Corners Awards
 
 (Disclosure: the judges being myself (80%) and my husband (20%))!
 
@@ -158,4 +160,3 @@ Mornington Peninsula -- penguins, beach, hot springs, wineries, great food, and 
 Well, folks, that's our little wrap up to the year, our little way to give thanks, and wish everyone an amazing 2016! We'd be sure to share any new discoveries we come across in the next year and beyond.
 
 If you have recommendations, please feel free to let us know in the comments below!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d216971a-478e-4f27-a6d6-1e0279eeb066.jpg)
