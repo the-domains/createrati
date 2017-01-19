@@ -7,8 +7,8 @@ description: >-
   Planning your dream destination wedding can be daunting—I had to do months of
   research when I was planning mine, and I had trouble finding a definitive
   guide that would have saved me time doing all the research.
-datePublished: '2017-01-19T06:20:25.602Z'
-dateModified: '2017-01-19T06:20:20.694Z'
+datePublished: '2017-01-19T14:18:52.321Z'
+dateModified: '2017-01-19T14:18:51.198Z'
 title: ''
 author: []
 authors: []
@@ -21,11 +21,13 @@ url: how-i-planned-my-dream-destination-wedding-in-palawan/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/138e6c39-f310-4bbc-a537-3933f2493cd1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d92d2b033d64f8fd32bf78613ba38c05d7b60d8d.jpg)
 
 Planning your dream destination wedding can be daunting---I had to do months of research when I was planning mine, and I had trouble finding a definitive guide that would have saved me time doing all the research.
 
 Since our wedding was going to be small and intimate, I decided to plan our wedding myself. If you have a demanding full-time job, I would advise against this, or at least try and outsource some tasks to a bridesmaid or hire a virtual assistant to at least answer your guests' questions.
+
+---
 
 Looking back, this is the only thing I would have done differently---it would have saved me a lot of stress and I would have looked less tired in the photos and I would have been able to relax a bit more. Nevertheless, we had an amazing wedding and I wouldn't change anything else.
 
@@ -152,7 +154,7 @@ So keep looking---the perfect venue is out there for you. Don't give up!
 
 _Destination beach wedding in Palawan, Philippines. Photo by Julian Abram Wainwright_
 
-Photos are copyright of award-winning photographer [][2]
+Photos are copyright of award-winning photographer
 
 [Julian Abram Wainwright of Wainwright Weddings][2]
 
@@ -160,9 +162,9 @@ _TO BE CONTINUED..._
 
 Like the info in book format? You're in luck, as I put it all in a book for you! Grab your copy below!
 
-[**Destination Beach Weddings: A Guide**][3]
+**[Destination Beach Weddings: A Guide][3]**
 
-[**Download The Guide**][3]
+**[Download The Guide][3]**
 
 [0]: http://www.colincowie.com/
 [1]: http://my.cebuboholweddings.com/
