@@ -10,8 +10,8 @@ description: >-
   if you prefer to use it for free, check out Design Feed (a tool I've
   classified under social media due to its main purpose of providing ease for
   generating social media graphics).
-datePublished: '2017-01-19T06:20:27.243Z'
-dateModified: '2017-01-19T06:20:20.694Z'
+datePublished: '2017-01-19T14:19:57.346Z'
+dateModified: '2017-01-19T14:19:56.214Z'
 title: Graphic Design
 author: []
 sourcePath: _posts/2016-04-18-graphic-design.md
@@ -24,7 +24,6 @@ url: graphic-design/index.html
 _type: Article
 
 ---
-# Design Resources: 8 Amazing Design Hacks for your Business or Blog
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16fbc7ca-b365-4a5f-9a8a-f400343f925b.jpg)
 
 # Graphic Design
@@ -32,6 +31,10 @@ _type: Article
 ## 1\. [Canva][0]
 
 Almost everybody knows Canva, but I'm still including it as a hack for those who don't know about it yet. It's great for quick graphics and inspiration. With Canva for work, you get the convenience of having consistent visuals. But if you prefer to use it for free, check out Design Feed (a tool I've classified under social media due to its main purpose of providing ease for generating social media graphics).
+
+---
+
+# Design Resources: 8 Amazing Design Hacks for your Business or Blog
 
 ## 2\. [Sketch][1] by Bohemian Coding
 
