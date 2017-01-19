@@ -10,8 +10,8 @@ description: >-
   enough to maximise the ticket value, but not too far that we lose so much time
   in the air. We only had one weekend to spare after having just come back from
   a big trip. It is at this point that we decided to go to Queenstown, NZ.
-datePublished: '2017-01-19T06:20:24.100Z'
-dateModified: '2017-01-19T06:20:20.694Z'
+datePublished: '2017-01-19T14:16:36.444Z'
+dateModified: '2017-01-19T14:16:35.314Z'
 title: 'A Weekend in Queenstown, New Zealand'
 author: []
 sourcePath: _posts/2016-04-18-a-weekend-in-queenstown-new-zealand.md
@@ -28,11 +28,15 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b89407a7-5cd6-49e4-9533-7661203b2af7.jpg)
 
 In December, we had these free Jetstar tickets to use that were about to expire at the end of the year. We could use the free tickets to just about any destination in the Jetstar network, so we looked for places that was far enough to maximise the ticket value, but not too far that we lose so much time in the air. We only had one weekend to spare after having just come back from a big trip. It is at this point that we decided to go to Queenstown, NZ.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abfc2fb8-51db-477c-9117-73a7d5f5d8df.jpg)
 
 ## The Southern Alps
 
-On the way to Queenstown, we flew over the Southern Alps. It was breathtakingly serene and peaceful, unadulterated and pristine. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2259d6d-f780-400e-b92b-a664cfb18d8c.jpg)
+---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abfc2fb8-51db-477c-9117-73a7d5f5d8df.jpg)
+
+On the way to Queenstown, we flew over the Southern Alps. It was breathtakingly serene and peaceful, unadulterated and pristine.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2259d6d-f780-400e-b92b-a664cfb18d8c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eda8982-ced6-4d6f-a498-8760ebac05e8.jpg)
 
 ## Devil's Staircase
@@ -62,7 +66,8 @@ We then checked into Sherwood which was an environmentally-friendly hotel/lodge 
 
 The next day, we headed to the Arrowtown Chinese Settlement. It looked like Hobbiton with little huts, albeit with a very sad history.
 
-The rest of Arrowtown felt like a little fairytale village with candy shops and old signboards. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44b8a7e7-2213-461c-8e24-965fdb7c469e.jpg)
+The rest of Arrowtown felt like a little fairytale village with candy shops and old signboards.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44b8a7e7-2213-461c-8e24-965fdb7c469e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cc6067a-c0da-4cab-b222-f1ed1b7e7b2b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/905301fa-cc13-4cda-87b8-f59391409764.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2edec24e-d177-4be2-be99-a402a1f0ef08.jpg)
@@ -70,7 +75,8 @@ The rest of Arrowtown felt like a little fairytale village with candy shops and 
 
 ## The Fergburger
 
-It was time to head get ready for our flight. I craved the burgers at Fergburger that I kept reading about, but we didn't have time. Arriving at the airport, we found out that our flight was delayed by two hours. We had time after all. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/221c9ca4-1fec-4eb8-8598-afb76fbcbd59.jpg)
+It was time to head get ready for our flight. I craved the burgers at Fergburger that I kept reading about, but we didn't have time. Arriving at the airport, we found out that our flight was delayed by two hours. We had time after all.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/221c9ca4-1fec-4eb8-8598-afb76fbcbd59.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85bc8afb-6851-4b9f-a292-6b673afecbc2.jpg)
 
 And it was totally worth the trip back to town. It was meant to be.
