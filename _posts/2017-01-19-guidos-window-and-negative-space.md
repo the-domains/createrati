@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Second in this #createdaily #designdaily series is a sketch of Guido''s window.'
-dateModified: '2017-01-19T12:43:58.715Z'
-datePublished: '2017-01-19T12:43:59.527Z'
+dateModified: '2017-01-19T14:15:47.383Z'
+datePublished: '2017-01-19T14:15:48.290Z'
 title: Guido’s Window & Negative Space
 author: []
 publisher: {}
@@ -53,6 +53,10 @@ When this happens, I then pull out this method we'll call The Space Cadet Balanc
 
 Try it out and let me know how you go over at our FREE closed Facebook Group, [Design for Entrepreneurs][0]!
 [Don't forget to grab your FREE BRANDING KIT here.][1]
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkMFKxDAQhu99ilDBbWE3UUEQ2-6hIOJlT95EJE0m3XTbpCTT4iK-u7O7VbzNMB_fzPyltjNTvYyxSk2zUX4YwGFMmZYoN_sApkr3iOOjEE3vWw623aPywUGIXPmFc9Mw-ojkuE-3pSDnNknKk9rqszd4j3-TMqpgR9xmZnIKrXeZXrO4JjZnXwljswyso950kVVM8xbwqYfzXfXxVbY7OUAW87eb94Joa1j2n6mPLzojVc4C4BTciVlEKoBEWDgyFDTgVtPM6gvGY1DUpkIo7xwo5EYqaLw_cAcowH081yLqA-_i1adphr66vZ4pCnqimu_4Q3rS0N18lIF27LwGbl2EgDUYHyBb_sqL5DvTXk2nS9ZsdUlkRdXvvk0Xac8qz4tSLHn9AOKKjaA" height="244" style=""></iframe>
+
+
 
 [0]: http://facebook.com/groups/DesignForEntrepreneurs "Design for Entrepreneurs"
 [1]: http://gretcho.link/brandingkit
