@@ -10,8 +10,8 @@ description: >-
   if you prefer to use it for free, check out Design Feed (a tool I've
   classified under social media due to its main purpose of providing ease for
   generating social media graphics).
-datePublished: '2017-01-19T14:50:01.937Z'
-dateModified: '2017-01-19T14:50:00.501Z'
+datePublished: '2017-01-19T14:55:38.376Z'
+dateModified: '2017-01-19T14:55:37.629Z'
 title: 'Design Resources: 8 Amazing Design Hacks for your Business or Blog'
 author: []
 sourcePath: _posts/2016-04-18-graphic-design.md
