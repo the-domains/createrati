@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Second in this #createdaily #designdaily series is a sketch of Guido''s window.'
-dateModified: '2017-01-19T06:20:20.694Z'
-datePublished: '2017-01-19T06:20:22.627Z'
+dateModified: '2017-01-19T12:43:58.715Z'
+datePublished: '2017-01-19T12:43:59.527Z'
 title: Guido’s Window & Negative Space
 author: []
 publisher: {}
@@ -48,8 +48,11 @@ When this happens, I then pull out this method we'll call The Space Cadet Balanc
 2\. Add a few more elements. This can be another image, or a shape, an outline, or a gradient. Something that will flow nicely with the brand's personality. If it's romantic and feminine, maybe a splash of watercolour. If the personality is bold, add some thick bold lines or use a background fill.
 ![Nothing adds more personality to your brand than a photo of yourself!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/015306c8-1340-43eb-a7cd-71291991de78.gif)
 
-3\. Go extreme. This is where I go bonkers and draw an imaginary tic-tac-toe-style grid on the whole thing. Then I move everything into two-thirds or even a third of the space. ![Leaving just the title, headline and the button in the centre, surrounded by lots of negative space. Super simple, yet non-distracting.  This way, the main focus is the button and call-to-action.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b8560c-9feb-4fb1-a40a-9a53d5f4e6ef.gif)
+3\. Go extreme. This is where I go bonkers and draw an imaginary tic-tac-toe-style grid on the whole thing. Then I move everything into two-thirds or even a third of the space.
+![Leaving just the title, headline and the button in the centre, surrounded by lots of negative space. Super simple, yet non-distracting.  This way, the main focus is the button and call-to-action.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b8560c-9feb-4fb1-a40a-9a53d5f4e6ef.gif)
 
-Try it out and let me know how you go over at our FREE closed Facebook Group, Design for Entrepreneurs!
+Try it out and let me know how you go over at our FREE closed Facebook Group, [Design for Entrepreneurs][0]!
+[Don't forget to grab your FREE BRANDING KIT here.][1]
 
-Don't forget to grab your FREE BRANDING KIT here.
+[0]: http://facebook.com/groups/DesignForEntrepreneurs "Design for Entrepreneurs"
+[1]: http://gretcho.link/brandingkit
