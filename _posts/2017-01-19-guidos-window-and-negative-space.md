@@ -1,18 +1,17 @@
 ---
 inFeed: true
 description: 'Second in this #createdaily #designdaily series is a sketch of Guido''s window.'
-dateModified: '2017-01-20T22:55:23.041Z'
-datePublished: '2017-01-20T22:55:23.934Z'
+dateModified: '2017-01-20T22:55:36.315Z'
+datePublished: '2017-01-20T22:55:37.097Z'
 title: How I Design With Negative Space
 author: []
 publisher: {}
 via: {}
-hasPage: true
+hasPage: false
 sourcePath: _posts/2017-01-19-guidos-window-and-negative-space.md
 starred: false
 datePublishedOriginal: '2017-01-19T04:53:33.586Z'
-url: guidos-window-and-negative-space/index.html
-_type: Article
+_type: Blurb
 
 ---
 # How I Design With Negative Space
