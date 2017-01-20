@@ -1,17 +1,18 @@
 ---
 inFeed: true
 description: 'Second in this #createdaily #designdaily series is a sketch of Guido''s window.'
-dateModified: '2017-01-20T22:55:36.315Z'
-datePublished: '2017-01-20T22:55:37.097Z'
+dateModified: '2017-01-20T22:56:22.589Z'
+datePublished: '2017-01-20T22:56:23.528Z'
 title: How I Design With Negative Space
 author: []
 publisher: {}
 via: {}
-hasPage: false
+hasPage: true
 sourcePath: _posts/2017-01-19-guidos-window-and-negative-space.md
 starred: false
 datePublishedOriginal: '2017-01-19T04:53:33.586Z'
-_type: Blurb
+url: how-i-design-with-negative-space/index.html
+_type: Article
 
 ---
 # How I Design With Negative Space
@@ -39,9 +40,9 @@ Then I take a step back and look at it as a whole.
 
 ### Is there too much negative space that it just looks unfinished?
 
-When this happens, I then pull out this method we'll call 
+When this happens, I then pull out this method we'll call
 
-## The Space Cadet Balancing Potion 
+## The Space Cadet Balancing Potion
 
 Where I'll do one of three options:
 
