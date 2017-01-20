@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Second in this #createdaily #designdaily series is a sketch of Guido''s window.'
-dateModified: '2017-01-20T22:51:56.965Z'
-datePublished: '2017-01-20T22:51:57.932Z'
+dateModified: '2017-01-20T22:55:23.041Z'
+datePublished: '2017-01-20T22:55:23.934Z'
 title: How I Design With Negative Space
 author: []
 publisher: {}
@@ -30,7 +30,7 @@ It was right in between two other similar, but not identical, real windows.
 
 So you can't help but wonder: did it used to be a window that they just filled in with adobe? Or has it always been a feature window, to fill the negative space between the other two windows?
 
-I like to start my designs with lots of negative space.
+### I like to start my designs with lots of negative space.
 
 I just start with the core elements: one or two of the strongest brand colours. I take the strongest brand colour as an active element for buttons and calls-to-action.
 
@@ -38,17 +38,21 @@ I play around with the formatting. If I'm stuck, I would check Pinterest for ins
 
 Then I take a step back and look at it as a whole.
 
-Is there too much negative space that it just looks unfinished?
+### Is there too much negative space that it just looks unfinished?
 
-When this happens, I then pull out this method we'll call The Space Cadet Balancing Potion. I'll do one of three options:
+When this happens, I then pull out this method we'll call 
 
-1\. Resize or move the elements around. I move the header, the button, the images to make sure that there's better distribution of negative space. Maybe I'll make the image larger, or the button larger. Or move the button so that there's lots of negative space around it that it just stands out, not to be missed, tempting your visitors to press it.
+## The Space Cadet Balancing Potion 
+
+Where I'll do one of three options:
+
+1\. **Resize or move the elements around**. I move the header, the button, the images to make sure that there's better distribution of negative space. Maybe I'll make the image larger, or the button larger. Or move the button so that there's lots of negative space around it that it just stands out, not to be missed, tempting your visitors to press it.
 ![To fix this, I moved the boxes around, also giving more real estate to the top box where my button/ call-to-action is going to sit.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24092eb1-e5ec-47a0-9fd5-844c56bd12b1.gif)
 
-2\. Add a few more elements. This can be another image, or a shape, an outline, or a gradient. Something that will flow nicely with the brand's personality. If it's romantic and feminine, maybe a splash of watercolour. If the personality is bold, add some thick bold lines or use a background fill.
+2\. **Add a few more elements**. This can be another image, or a shape, an outline, or a gradient. Something that will flow nicely with the brand's personality. If it's romantic and feminine, maybe a splash of watercolour. If the personality is bold, add some thick bold lines or use a background fill.
 ![Nothing adds more personality to your brand than a photo of yourself!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/015306c8-1340-43eb-a7cd-71291991de78.gif)
 
-3\. Go extreme. This is where I go bonkers and draw an imaginary tic-tac-toe-style grid on the whole thing. Then I move everything into two-thirds or even a third of the space.
+3\. **Go extreme**. This is where I go bonkers and draw an imaginary tic-tac-toe-style grid on the whole thing. Then I move everything into two-thirds or even a third of the space.
 ![Leaving just the title, headline and the button in the centre, surrounded by lots of negative space. Super simple, yet non-distracting.  This way, the main focus is the button and call-to-action.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b8560c-9feb-4fb1-a40a-9a53d5f4e6ef.gif)
 
 Try it out and let me know how you go over at our FREE closed Facebook Group, [Design for Entrepreneurs][0]!
