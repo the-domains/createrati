@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: 'Second in this #createdaily #designdaily series is a sketch of Guido''s window.'
-dateModified: '2017-01-19T14:53:31.341Z'
-datePublished: '2017-01-19T14:53:33.322Z'
-title: Guido’s Window & Negative Space
+dateModified: '2017-01-20T22:51:56.965Z'
+datePublished: '2017-01-20T22:51:57.932Z'
+title: How I Design With Negative Space
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: guidos-window-and-negative-space/index.html
 _type: Article
 
 ---
-# Guido's Window & Negative Space
+# How I Design With Negative Space
 ![Second in this #createdaily #designdaily series is a sketch of Guido's window.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b2e9ff6-1b40-44f8-89e8-e32062039fa5.png)
 
 ---
@@ -59,4 +59,4 @@ Try it out and let me know how you go over at our FREE closed Facebook Group, [D
 
 
 [0]: http://facebook.com/groups/DesignForEntrepreneurs "Design for Entrepreneurs"
-[1]: http://gretcho.link/brandingkit
+[1]: http://gretcho.link/getkit
