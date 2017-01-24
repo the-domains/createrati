@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-01-19T06:20:26.662Z'
+datePublished: '2017-01-24T00:47:46.509Z'
 sourcePath: _posts/2016-06-18-new-york-like-a-local.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2017-01-19T06:20:20.694Z'
+dateModified: '2017-01-24T00:47:42.588Z'
 title: New York Like A Local
 publisher: {}
 description: ''
