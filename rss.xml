@@ -4,9 +4,16 @@
         <description><![CDATA[CREATERATI]]></description>
         <link>http://blog.eightcorners.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Jan 2017 00:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2017 00:48:22 GMT</lastBuildDate>
         <atom:link href="http://blog.eightcorners.co/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Jan 2017 00:47:46 GMT</pubDate>
+        <pubDate>Tue, 24 Jan 2017 00:47:49 GMT</pubDate>
+        <item>
+            <title><![CDATA[On the importance of Negative Space…in design and life.]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec8e2f69-e722-497c-897c-acf8e49d8a25.jpg" title="Love is space and time measured by the heart. Marcel Proust" alt="Australian Open inspired illustration + more thoughts on negative space.">,<h1>On the importance of Negative Space…in design and life.</h1>,<p>“ <strong>in a world filled with chaos and clutter, clean design stands out</strong>.”</p>]]></description>
+            <link>http://blog.eightcorners.co/on-the-importance-of-negative-spacein-design-and-life/index.html</link>
+            <guid isPermaLink="false">68568718-cf12-4070-bed2-437eed1f1f00</guid>
+            <pubDate>Tue, 24 Jan 2017 00:41:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How I Design With Negative Space]]></title>
             <description><![CDATA[<h1>How I Design With Negative Space</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b2e9ff6-1b40-44f8-89e8-e32062039fa5.png" title="Guido&apos;s Window" alt="Second in this #createdaily #designdaily series is a sketch of Guido&apos;s window.">]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.eightcorners.co/eight-corners-awards/index.html</link>
             <guid isPermaLink="false">9d5736ca-f68b-4198-b394-ae8d73270788</guid>
             <pubDate>Wed, 18 Jan 2017 01:16:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creative Business Resources]]></title>
-            <description><![CDATA[<h1>Creative Business Resources</h1>,<p>For the past few years, I've realised that for creatives (web designers, graphic designers, photographers, copywriters and writers), starting a business is tougher than anything else I've ever attempted in my life.</p>,<p>It's totally different from my life in IT where my work is validated by machines—computers will tell you whether you did the right thing or not.</p>]]></description>
-            <link>http://blog.eightcorners.co/creative-business-resources/index.html</link>
-            <guid isPermaLink="false">e686599e-1732-46db-b687-66c155fe6031</guid>
-            <pubDate>Wed, 18 Jan 2017 01:16:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
