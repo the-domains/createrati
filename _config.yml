@@ -27,9 +27,6 @@ navigation:
   - name: home
     url: 'https://eightcorners.co'
     type: external
-  - name: shop
-    url: 'https://www.etsy.com/au/shop/eightcornerscreative'
-    type: external
   - name: Shop eBook Templates
     url: 'http://shop.createrati.com'
     type: external
