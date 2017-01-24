@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: '“ in a world filled with chaos and clutter, clean design stands out.”'
-dateModified: '2017-01-24T00:42:15.828Z'
-datePublished: '2017-01-24T00:42:16.631Z'
+dateModified: '2017-01-24T00:47:42.588Z'
+datePublished: '2017-01-24T00:47:44.698Z'
 title: On the importance of Negative Space…in design and life.
 author: []
 publisher: {}
