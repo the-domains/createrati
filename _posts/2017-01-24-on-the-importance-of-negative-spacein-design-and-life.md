@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: '“ in a world filled with chaos and clutter, clean design stands out.”'
-dateModified: '2017-01-24T00:41:54.585Z'
-datePublished: '2017-01-24T00:41:55.414Z'
+dateModified: '2017-01-24T00:42:15.828Z'
+datePublished: '2017-01-24T00:42:16.631Z'
 title: On the importance of Negative Space…in design and life.
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-24-on-the-importance-of-negative-spacein-design-and-life.md
 starred: false
 datePublishedOriginal: '2017-01-24T00:41:55.414Z'
-sourcePath: _posts/2017-01-24-on-the-importance-of-negative-spacein-design-and-life.md
 url: on-the-importance-of-negative-spacein-design-and-life/index.html
 _type: Article
 
@@ -39,8 +39,9 @@ Coincidentally, I recently wrote about negative space on **[the blog][0]**, alon
 
 I'm a huge fan of negative space, because **in a world filled with chaos and clutter, clean design stands out**.
 
-Negative space breaks the pattern, clearing the way into your audience's attention span, making space for the fundamentals: **expressing your core message, creating that emotional connection with your audience, and guiding them clearly to the one thing you want them to do, that will very likely change their lives**: to click the button to your call-to-action (be it to sign up to your mailing list or to download a product so you can help change theirs).  
+Negative space breaks the pattern, clearing the way into your audience's attention span, making space for the fundamentals: **expressing your core message, creating that emotional connection with your audience, and guiding them clearly to the one thing you want them to do, that will very likely change their lives**: to click the button to your call-to-action (be it to sign up to your mailing list or to download a product).  
   
 
+So you can help change their lives.
 
 [0]: http://eightcorners.us13.list-manage1.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=94b79da7f7&e=cc5620f280
