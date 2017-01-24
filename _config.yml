@@ -33,6 +33,9 @@ navigation:
   - name: Shop eBook Templates
     url: 'http://shop.createrati.com'
     type: external
+  - name: Create Magic
+    url: 'http://gretcho.link/ecourses'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb40f0ae-50da-405d-a939-ee1c7e264f5a.png
 title: CREATERATI
