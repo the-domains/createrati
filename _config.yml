@@ -27,7 +27,7 @@ navigation:
   - name: home
     url: 'https://eightcorners.co'
     type: external
-  - name: Shop eBook Templates
+  - name: shop ebook templates
     url: 'http://shop.createrati.com'
     type: external
   - name: create your own brand
