@@ -1,8 +1,8 @@
 ---
 description: One of my fave quotes?
 author: []
-datePublished: '2017-01-30T04:01:05.089Z'
-dateModified: '2017-01-30T04:01:03.352Z'
+datePublished: '2017-01-30T09:39:26.893Z'
+dateModified: '2017-01-30T09:39:25.212Z'
 title: 8 Canva Alternatives You Didn’t Know About
 publisher: {}
 via: {}
@@ -28,6 +28,6 @@ One of my fave quotes?
 
 I'm gonna say this right now: I don't like peaches.
 
-And to me, Canva is a peach. 
+And to me, Canva is a peach.
 
 So if you're like me who thinks Canva is a peach (sorry, I'm loving this too much, aren't I?), here are a few Canva alternatives for you!
