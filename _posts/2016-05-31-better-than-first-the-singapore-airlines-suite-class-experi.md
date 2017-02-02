@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: The Singapore Airlines Suite Class Experience
-datePublished: '2017-02-02T03:19:58.077Z'
-dateModified: '2017-02-02T03:19:49.243Z'
+datePublished: '2017-02-02T04:18:17.704Z'
+dateModified: '2017-02-02T04:18:12.711Z'
 title: ''
 author: []
 sourcePath: >-
