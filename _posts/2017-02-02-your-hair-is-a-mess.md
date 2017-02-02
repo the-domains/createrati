@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Ever had someone say this to you? Or of you?
-dateModified: '2017-02-02T03:02:08.932Z'
-datePublished: '2017-02-02T03:02:09.963Z'
+dateModified: '2017-02-02T03:19:49.243Z'
+datePublished: '2017-02-02T03:19:52.823Z'
 title: Your hair is a mess.
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-02-your-hair-is-a-mess.md
 starred: false
 datePublishedOriginal: '2017-02-02T03:02:09.963Z'
-sourcePath: _posts/2017-02-02-your-hair-is-a-mess.md
 url: your-hair-is-a-mess/index.html
 _type: Article
 
