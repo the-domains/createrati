@@ -10,8 +10,8 @@ description: >-
   enough to maximise the ticket value, but not too far that we lose so much time
   in the air. We only had one weekend to spare after having just come back from
   a big trip. It is at this point that we decided to go to Queenstown, NZ.
-datePublished: '2017-02-02T04:18:15.520Z'
-dateModified: '2017-02-02T04:18:12.711Z'
+datePublished: '2017-02-09T01:46:29.336Z'
+dateModified: '2017-02-09T01:46:24.851Z'
 title: 'A Weekend in Queenstown, New Zealand'
 author: []
 sourcePath: _posts/2016-04-18-a-weekend-in-queenstown-new-zealand.md
