@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: "Doing anything Valentine's Day?\_Whether or not you celebrate it, let's have fun with it! ;)Introducing...Colour Matchmaking series.\_This is a little experiment on doing a little spin on the whole colour psychology thing...we're going to give them life!In the form of a personal dating ad.\_Crazy? Weird? Guilty as charged.\_But as David Ogilvy once said:\_"
-dateModified: '2017-02-09T01:45:41.729Z'
-datePublished: '2017-02-09T01:45:42.815Z'
+dateModified: '2017-02-09T01:46:05.156Z'
+datePublished: '2017-02-09T01:46:06.019Z'
 title: 'Colour Personality: Could Fresh Green be your match?'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-09-colour-personality-could-fresh-green-be-your-match.md
 starred: false
 datePublishedOriginal: '2017-02-09T01:45:42.815Z'
-sourcePath: _posts/2017-02-09-colour-personality-could-fresh-green-be-your-match.md
 url: colour-personality-could-fresh-green-be-your-match/index.html
 _type: Article
 
