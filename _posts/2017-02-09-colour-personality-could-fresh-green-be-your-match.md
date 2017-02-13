@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'Doing anything Valentine''s Day? '
-dateModified: '2017-02-13T13:08:30.802Z'
-datePublished: '2017-02-13T13:08:33.655Z'
+description: Doing anything Valentine's Day?
+dateModified: '2017-02-13T13:09:21.824Z'
+datePublished: '2017-02-13T13:09:22.650Z'
 title: 'Colour Personality: Could Fresh Green be your match?'
 author: []
 publisher: {}
@@ -19,17 +19,17 @@ _type: Article
 
 # Colour Personality: Could Fresh Green be your match?
 
-Doing anything Valentine's Day? 
+Doing anything Valentine's Day?
 
 Whether or not you celebrate it, let's have fun with it! ;)
 
-Introducing...Colour Matchmaking series. 
+Introducing...Colour Matchmaking series.
 
 This is a little experiment on doing a little spin on the whole colour psychology thing...we're going to give them life!
 
-In the form of a personal dating ad. 
+In the form of a personal dating ad.
 
-Crazy? Weird? Guilty as charged. 
+Crazy? Weird? Guilty as charged.
 
 But as David Ogilvy once said:
 
