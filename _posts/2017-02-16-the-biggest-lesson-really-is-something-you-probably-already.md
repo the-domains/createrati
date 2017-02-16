@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Gosh, this week just left me breathless.\_So many things have happened that I apologise in advance if this is going to be a long message.So today, I thought I would write a few key lessons I’ve learned in business, not just design.I want to not only share this with you but to also remind myself of these lessons years from now."
-dateModified: '2017-02-16T23:41:06.274Z'
-datePublished: '2017-02-16T23:41:07.521Z'
+dateModified: '2017-02-16T23:41:25.954Z'
+datePublished: '2017-02-16T23:41:27.043Z'
 title: And I can’t wait to share everything I know with you.
 author: []
 publisher: {}
@@ -48,7 +48,7 @@ Here's a screenshot from a recent campaign we ran at 5X ROI:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea1c68a2-3fcb-4564-81e6-0c0d1340962b.png)
 
 This is on my third attempt, refined after the first few attempts. Even with the split-testing, course-corrections and apparent Facebook glitches this weekend?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f8b7127-bb6c-4ce0-88a0-daf0015aef1a.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4124001e98663150841b760e0117b21d/croprotate.png?cropheight=311&cropwidth=361&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5f8b7127-bb6c-4ce0-88a0-daf0015aef1a.png&x=0&y=7)
 
 We still made a profit. On autopilot.  
 While at the same time, reaching more women whose lives Nat would later change with her growing personal style empire.  
