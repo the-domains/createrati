@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Gosh, this week just left me breathless.\_So many things have happened that I apologise in advance if this is going to be a long message.So today, I thought I would write a few key lessons I’ve learned in business, not just design.I want to not only share this with you but to also remind myself of these lessons years from now."
-dateModified: '2017-02-17T00:16:47.151Z'
-datePublished: '2017-02-17T00:16:48.010Z'
+dateModified: '2017-02-17T00:18:33.710Z'
+datePublished: '2017-02-17T00:18:34.964Z'
 title: And I can’t wait to share everything I know with you.
 author: []
 publisher: {}
@@ -47,22 +47,22 @@ Not only that, because she offered her [amazing ebook][2] after they signed up, 
 Here's a screenshot from a recent campaign we ran at 5X ROI:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea1c68a2-3fcb-4564-81e6-0c0d1340962b.png)
 
-This is on my third attempt, refined after the first few attempts. Even with the split-testing, course-corrections and apparent Facebook glitches this weekend?
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8dd7d32df3526ecf3ecb1c4912f6be3d/croprotate.png?cropheight=309&cropwidth=361&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F3d30a51de4e93fc5678625c3ceace048bc94764e.png&x=0&y=1)
-
+This is on my third attempt, refined after the first few attempts. Even with the split-testing, course-corrections and apparent Facebook glitches this weekend?  
 We still made a profit. On autopilot.  
 While at the same time, reaching more women whose lives Nat would later change with her growing personal style empire.  
-**This is the epitome of a successful online business.**  
+**This is the epitome of a successful online business.**
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/623e2a4d5dd3fa6b58b218ff59f635d7df352f04.png)
+
 The lesson?
 
-### **This is what's possible when you have a great product, listen closely to what your customers want, and implement the right marketing strategy. **
+### This is what's possible when you have a great product, listen closely to what your customers want, and implement the right marketing strategy. 
 
 (The ad strategy, I'm going to teach you very soon! The good, the bad, the ugly, and the mistakes I made that you can avoid!)  
 Which brings us to:
 
 ## **Lesson N°2**
 
-### **Be there for your clients and customers, and never, ever forget who helped you get there. **
+### Be there for your clients and customers, and never, ever forget who helped you get there. 
 
 When you're starting out in business without a mentor, it can sometimes feel like somebody pushed you in the water without first teaching you the basics of swimming.   
 You thrash around, freeze in indecision as you mull things over, and maybe by sheer luck or instinct, you find a way to doggy paddle enough to survive.  
@@ -113,7 +113,7 @@ So get in early at a price you'll never see again.
 Just head on over here to get your seat now: [http://gretcho.link/ecourses][5]  
 Before I send this to the ad gods, who seem to be smiling down at me right this moment. ;)  
 Got any questions? Want something covered that I haven't listed?  
-Head on over to our [Design Lounge][6] or reply to this email and let me know your thoughts! 
+Head on over to our [Design Lounge][6] or reply to this email and let me know your thoughts! [Grab your early bird ticket for THE BRAND TOUR][7]
 
 [0]: http://eightcorners.us13.list-manage2.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=4be7c78a01&e=2d0cdeeb8f
 [1]: http://eightcorners.us13.list-manage.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=03e77ea6a5&e=2d0cdeeb8f
@@ -122,3 +122,4 @@ Head on over to our [Design Lounge][6] or reply to this email and let me know yo
 [4]: http://eightcorners.us13.list-manage2.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=2ac2f19697&e=2d0cdeeb8f
 [5]: http://eightcorners.us13.list-manage1.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=d75a89edb6&e=2d0cdeeb8f
 [6]: http://eightcorners.us13.list-manage.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=ad8c34617c&e=2d0cdeeb8f
+[7]: http://gretcho.link/ecourses
