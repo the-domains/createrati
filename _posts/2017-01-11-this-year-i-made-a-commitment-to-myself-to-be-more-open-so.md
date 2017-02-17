@@ -4,8 +4,8 @@ description: >-
   This year, I made a commitment to myself to be more open. So what I am about
   to write can be raw. Yet I feel like it needs to be said, in case there’s
   someone out there needing to figure out forgiveness.
-dateModified: '2017-02-17T00:19:09.428Z'
-datePublished: '2017-02-17T00:19:13.820Z'
+dateModified: '2017-02-17T00:37:58.477Z'
+datePublished: '2017-02-17T00:38:02.448Z'
 title: ''
 author: []
 publisher: {}
