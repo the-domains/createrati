@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "I spent most of the weekend just taking in lots of inspiration (I find that headspace and lots of eye candy\_helps the creative mind, and no it's not just caffeine\_\_) and I can't wait to share them with you!From the wonderful Lunar New Year celebrations here in Melbourne to the unreal yet uber-inspiring Australian Open tennis final with Federer and Nadal. (Two of the top tennis champs\_in our lifetime!)I just loved how generous, gracious, and tenacious both legends are.\_Most of all, how Federer and Nadal leveraged their own strengths, which they used to conquer the other’s weaknesses.Nadal used power and spin on his shots, targeting Federer’s weak backhand, and how Federer used wit and persistence to target Nadal’s backhand issues as well.Which made me think a lot about branding and visual identity.We all have something in us and in our businesses that separate us from others.\_Nadal had power, Federer had tactics. What's yours?Can't think of any? No worries!"
-dateModified: '2017-02-17T00:19:09.428Z'
-datePublished: '2017-02-17T00:19:12.655Z'
+dateModified: '2017-02-17T00:37:58.477Z'
+datePublished: '2017-02-17T00:38:01.559Z'
 title: Are you using the right colours for your brand?
 author: []
 publisher: {}
