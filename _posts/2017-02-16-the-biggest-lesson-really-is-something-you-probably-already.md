@@ -2,10 +2,10 @@
 inFeed: true
 description: >-
   Today, I thought I would write a few key lessons I’ve learned in business, not
-  just design.  I want to not only share this with you but to also remind myself
-  of these lessons years from now. 
-dateModified: '2017-02-17T00:29:48.995Z'
-datePublished: '2017-02-17T00:29:49.856Z'
+  just design.I want to not only share this with you but to also remind myself
+  of these lessons years from now.
+dateModified: '2017-02-17T00:37:02.930Z'
+datePublished: '2017-02-17T00:37:03.716Z'
 title: Let's talk real business + some hard lessons I learned.
 author: []
 publisher: {}
@@ -96,7 +96,7 @@ For the longest time, I avoided writing copy and believed I sucked at it.
 Until I relented and thought heck, I should at least learn the basics.   
 And now, Nat hired me for that too.   
 I help write copy for her Facebook Ads and her landing pages.   
-I could spot the gems in her beautiful Facebook Page posts and put that in her ebooks and add structure and finishing touches.  
+I would spot the gems in her beautiful Facebook Page posts & emails, and put those in her ebooks. I just add some more structure and finishing touches.  
 As I write this, I'm getting teary-eyed because I am just so overjoyed that it is all making sense now. And I still cannot believe it works.  
 (I'm sure Nat could probably do better with a pro marketer/copywriter, but to see that my words and strategy are not failing and actually converting well? For someone else? That feels pretty darned good.)
 
@@ -118,11 +118,11 @@ Got any questions? Want something covered that I haven't listed?
 Head on over to our [Design Lounge][6] or reply to this email and let me know your thoughts!
 [Grab your early bird ticket here][7]
 
-[0]: http://eightcorners.us13.list-manage2.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=4be7c78a01&e=2d0cdeeb8f
-[1]: http://eightcorners.us13.list-manage.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=03e77ea6a5&e=2d0cdeeb8f
-[2]: http://eightcorners.us13.list-manage.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=d5e5684fd0&e=2d0cdeeb8f
-[3]: http://eightcorners.us13.list-manage.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=62ac87dd1a&e=2d0cdeeb8f
-[4]: http://eightcorners.us13.list-manage2.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=2ac2f19697&e=2d0cdeeb8f
+[0]: https://makeitlookeasy.com.au/ "The BOSS Course - Nat Tucker - The best personal style expert in Australia teaches how to be the boss of your wardrobe."
+[1]: http://bit.ly/go-facebook-ads "How to Make $10k In Facebook Ads - Dan Henry"
+[2]: http://bit.ly/therealhue "The Real Hue: What You Didn't Know About Colour"
+[3]: http://bit.ly/go-facebook-ads "Dan Henry - Facebook Ads and Digital Marketing Expert"
+[4]: http://gretcho.link/ecourses "The Brand Tour - DIY Design Masterclass - Mentorship Program - Online Course"
 [5]: http://eightcorners.us13.list-manage1.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=d75a89edb6&e=2d0cdeeb8f
 [6]: http://eightcorners.us13.list-manage.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=ad8c34617c&e=2d0cdeeb8f
 [7]: http://gretcho.link/ecourses
