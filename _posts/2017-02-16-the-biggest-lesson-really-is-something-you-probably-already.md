@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Gosh, this week just left me breathless.\_So many things have happened that I apologise in advance if this is going to be a long message.So today, I thought I would write a few key lessons I’ve learned in business, not just design.I want to not only share this with you but to also remind myself of these lessons years from now."
-dateModified: '2017-02-17T00:18:48.684Z'
-datePublished: '2017-02-17T00:18:49.582Z'
+dateModified: '2017-02-17T00:19:09.428Z'
+datePublished: '2017-02-17T00:19:11.887Z'
 title: And I can’t wait to share everything I know with you.
 author: []
 publisher: {}
