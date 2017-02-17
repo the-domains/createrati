@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Gosh, this week just left me breathless.\_So many things have happened that I apologise in advance if this is going to be a long message.So today, I thought I would write a few key lessons I’ve learned in business, not just design.I want to not only share this with you but to also remind myself of these lessons years from now."
-dateModified: '2017-02-17T00:18:33.710Z'
-datePublished: '2017-02-17T00:18:34.964Z'
+dateModified: '2017-02-17T00:18:48.684Z'
+datePublished: '2017-02-17T00:18:49.582Z'
 title: And I can’t wait to share everything I know with you.
 author: []
 publisher: {}
@@ -113,7 +113,7 @@ So get in early at a price you'll never see again.
 Just head on over here to get your seat now: [http://gretcho.link/ecourses][5]  
 Before I send this to the ad gods, who seem to be smiling down at me right this moment. ;)  
 Got any questions? Want something covered that I haven't listed?  
-Head on over to our [Design Lounge][6] or reply to this email and let me know your thoughts! [Grab your early bird ticket for THE BRAND TOUR][7]
+Head on over to our [Design Lounge][6] or reply to this email and let me know your thoughts! [Grab your early bird ticket here][7]
 
 [0]: http://eightcorners.us13.list-manage2.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=4be7c78a01&e=2d0cdeeb8f
 [1]: http://eightcorners.us13.list-manage.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=03e77ea6a5&e=2d0cdeeb8f
