@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Abstract Art using Autodesk SketchBook
-dateModified: '2017-02-13T13:08:30.802Z'
-datePublished: '2017-02-13T13:08:37.242Z'
+dateModified: '2017-02-17T00:19:09.428Z'
+datePublished: '2017-02-17T00:19:13.835Z'
 title: 'There are only two emotions: love and fear.'
 author: []
 publisher: {}
