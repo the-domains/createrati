@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Doing anything Valentine's Day?
-dateModified: '2017-02-17T00:37:58.477Z'
-datePublished: '2017-02-17T00:38:00.777Z'
+dateModified: '2017-02-17T00:58:06.887Z'
+datePublished: '2017-02-17T00:58:07.652Z'
 title: 'Colour Personality: Could Fresh Green be your match?'
 author: []
 publisher: {}
@@ -23,9 +23,15 @@ Doing anything Valentine's Day?
 
 Whether or not you celebrate it, let's have fun with it! ;)
 
-Introducing...Colour Matchmaking series.
+Introducing...Colour Matchmaking series. 
+
+---
 
 This is a little experiment on doing a little spin on the whole colour psychology thing...we're going to give them life!
+
+How it works? If you're not sure what colour to use, keep an eye out on this series to find your true match. The One.
+
+I'll wait for them to come to me and I'll introduce them to you.
 
 In the form of a personal dating ad.
 
