@@ -1,9 +1,12 @@
 ---
 inFeed: true
-description: "Gosh, this week just left me breathless.\_So many things have happened that I apologise in advance if this is going to be a long message.So today, I thought I would write a few key lessons I’ve learned in business, not just design.I want to not only share this with you but to also remind myself of these lessons years from now."
-dateModified: '2017-02-17T00:19:09.428Z'
-datePublished: '2017-02-17T00:19:11.887Z'
-title: And I can’t wait to share everything I know with you.
+description: >-
+  Today, I thought I would write a few key lessons I’ve learned in business, not
+  just design.  I want to not only share this with you but to also remind myself
+  of these lessons years from now. 
+dateModified: '2017-02-17T00:29:48.995Z'
+datePublished: '2017-02-17T00:29:49.856Z'
+title: Let's talk real business + some hard lessons I learned.
 author: []
 publisher: {}
 via: {}
@@ -16,12 +19,11 @@ url: and-i-cant-wait-to-share-everything-i-know-with-you/index.html
 _type: Article
 
 ---
+# Let's talk real business + some hard lessons I learned.
 ![No occasion needed, because the wine makes the occasion.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fddfe5d-1638-4c63-9278-d68326018e0e.jpg)
 
-Gosh, this week just left me breathless.   
-So many things have happened that I apologise in advance if this is going to be a long message.  
-So today, I thought I would write a few key lessons I've learned in business, not just design.  
-I want to not only share this with you but to also remind myself of these lessons years from now.  
+Today, I thought I would write a few key lessons I've learned in business, not just design.  
+I want to not only share this with you but to also remind myself of these lessons years from now.
 
 ## **Lesson N°1**
 
@@ -55,14 +57,14 @@ While at the same time, reaching more women whose lives Nat would later change w
 
 The lesson?
 
-### This is what's possible when you have a great product, listen closely to what your customers want, and implement the right marketing strategy. 
+### This is what's possible when you have a great product, listen closely to what your customers want, and implement the right marketing strategy.
 
 (The ad strategy, I'm going to teach you very soon! The good, the bad, the ugly, and the mistakes I made that you can avoid!)  
 Which brings us to:
 
 ## **Lesson N°2**
 
-### Be there for your clients and customers, and never, ever forget who helped you get there. 
+### Be there for your clients and customers, and never, ever forget who helped you get there.
 
 When you're starting out in business without a mentor, it can sometimes feel like somebody pushed you in the water without first teaching you the basics of swimming.   
 You thrash around, freeze in indecision as you mull things over, and maybe by sheer luck or instinct, you find a way to doggy paddle enough to survive.  
@@ -74,7 +76,7 @@ When you learn to swim, even do marathons, and you're able to start teaching oth
 Just because you had to learn on your own doesn't mean you have to leave others to do the same.   
 The world would be a much better place if we all made real connections.   
 And this is what Nat does beautifully. And this is coming back 3x more than the average successful business.  
-This is the excellence we should be aiming for. There's no settling for the "average".  
+This is the excellence we should be aiming for. There's no settling for the "average".
 
 ## **Lesson N°3**
 
@@ -96,7 +98,7 @@ And now, Nat hired me for that too.
 I help write copy for her Facebook Ads and her landing pages.   
 I could spot the gems in her beautiful Facebook Page posts and put that in her ebooks and add structure and finishing touches.  
 As I write this, I'm getting teary-eyed because I am just so overjoyed that it is all making sense now. And I still cannot believe it works.  
-(I'm sure Nat could probably do better with a pro marketer/copywriter, but to see that my words and strategy are not failing and actually converting well? For someone else? That feels pretty darned good.)  
+(I'm sure Nat could probably do better with a pro marketer/copywriter, but to see that my words and strategy are not failing and actually converting well? For someone else? That feels pretty darned good.)
 
 # And I can't wait to share everything I know with you.
 
@@ -113,7 +115,8 @@ So get in early at a price you'll never see again.
 Just head on over here to get your seat now: [http://gretcho.link/ecourses][5]  
 Before I send this to the ad gods, who seem to be smiling down at me right this moment. ;)  
 Got any questions? Want something covered that I haven't listed?  
-Head on over to our [Design Lounge][6] or reply to this email and let me know your thoughts! [Grab your early bird ticket here][7]
+Head on over to our [Design Lounge][6] or reply to this email and let me know your thoughts!
+[Grab your early bird ticket here][7]
 
 [0]: http://eightcorners.us13.list-manage2.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=4be7c78a01&e=2d0cdeeb8f
 [1]: http://eightcorners.us13.list-manage.com/track/click?u=7cd0ee9b8caa450bbc55bfd2b&id=03e77ea6a5&e=2d0cdeeb8f
