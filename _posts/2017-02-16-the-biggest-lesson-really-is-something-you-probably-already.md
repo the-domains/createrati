@@ -4,8 +4,8 @@ description: >-
   Today, I thought I would write a few key lessons I’ve learned in business, not
   just design.I want to not only share this with you but to also remind myself
   of these lessons years from now.
-dateModified: '2017-02-19T07:17:50.905Z'
-datePublished: '2017-02-19T07:17:51.589Z'
+dateModified: '2017-02-19T07:35:28.720Z'
+datePublished: '2017-02-19T07:35:29.899Z'
 title: Let's talk real business + some hard lessons I learned.
 author: []
 publisher: {}
@@ -178,8 +178,6 @@ Before I send this to the ad gods, who seem to be smiling down at me right this 
 Got any questions? Want something covered that I haven't listed?  
 Head on over to our [Design Lounge][6] or reply to this email and let me know your thoughts!
 [Grab your early bird ticket here][7]
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVzEEOgjAQQNG9pxjrupQEiJAAW49hhk4jJZKSzmDF06vBjdv3k98etYZLAAmQUsqQSEbPmQ2zIeRxCBjpG-3KEmb_crCFNX4k3Bm07g8t2-gXAdkW1ylxTzETPnBXBRxtp4zh8996YlPkufnRNXm6OckmPi3r4KmLqKsam7Ioq6GpXF6TU31r9md_eAMWBz1A" height="244" style=""></iframe>
 
 Full disclosure: This post may contain affiliate links, but I only promote products I myself love and recommend to people I love. And that includes you. ;) <3
 
