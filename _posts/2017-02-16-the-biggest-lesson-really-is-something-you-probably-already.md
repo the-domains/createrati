@@ -5,7 +5,7 @@ description: >-
   just design.I want to not only share this with you but to also remind myself
   of these lessons years from now.
 dateModified: '2017-02-19T07:17:50.905Z'
-datePublished: '2017-02-19T07:17:51.266Z'
+datePublished: '2017-02-19T07:17:51.589Z'
 title: Let's talk real business + some hard lessons I learned.
 author: []
 publisher: {}
