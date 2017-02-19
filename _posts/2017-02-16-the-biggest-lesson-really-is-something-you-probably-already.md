@@ -4,8 +4,8 @@ description: >-
   Today, I thought I would write a few key lessons I’ve learned in business, not
   just design.I want to not only share this with you but to also remind myself
   of these lessons years from now.
-dateModified: '2017-02-17T00:53:22.610Z'
-datePublished: '2017-02-17T00:53:23.478Z'
+dateModified: '2017-02-19T07:09:36.441Z'
+datePublished: '2017-02-19T07:09:37.586Z'
 title: Let's talk real business + some hard lessons I learned.
 author: []
 publisher: {}
@@ -31,7 +31,7 @@ I want to not only share this with you but to also remind myself of these lesson
 
 One of my favourite people in the world, [Nat Tucker from Make It Look Easy][0], whom I've probably mentioned a few hundred times around here because she is just that amazing, has hired me to run Facebook Ads for her.
 
-I don't run a Facebook Ads agency, just to be clear, but I've always been fascinated with advertising, marketing and persuasion. 
+I don't run a Facebook Ads agency, just to be clear, but I've always been fascinated with advertising, marketing and persuasion.
 
 And because I could never say no to Nat, and to an opportunity to work with one of the most admirable entrepreneurs and human beings I've ever met? I said HELL YEAH.  
 Mind you, I've only ever ran ads for myself before. And an accountant friend.   
@@ -54,13 +54,13 @@ Now that you have the back story, here is where it gets juicy:
 
 I ran ads for my accountant friend and they converted at roughly 20%.
 
-I've used ads to build my list and I get 45-50% conversion rates on my landing pages. 
+I've used ads to build my list and I get 45-50% conversion rates on my landing pages.
 
 (Conversion rates meaning 1 out of 2 people who clicked on my ad trusted me with their email address in exchange for a PDF that I thought would help them --- you might have been one of them!)
 
-When I got to that point I thought that was good. 
+When I got to that point I thought that was good.
 
-But running ads for Nat? 65-70% conversion, baby. 
+But running ads for Nat? 65-70% conversion, baby.
 
 I don't think even the best marketing gurus out there convert as much.
 
@@ -89,26 +89,26 @@ Which brings us to:
 
 ### Be there for your clients and customers, and never, ever forget who helped you get there.
 
-When you're starting out in business without a mentor, it can sometimes feel like somebody pushed you in the water without first teaching you the basics of swimming. 
+When you're starting out in business without a mentor, it can sometimes feel like somebody pushed you in the water without first teaching you the basics of swimming.
 
 You thrash around, freeze in indecision as you mull things over, and maybe by sheer luck or instinct, you find a way to doggy paddle enough to survive.
 
-The hard truth? You can hire all the coaches and buy all the courses you need (some will work, some won't), but in the end, you will need to let go of the buoy and swim. 
+The hard truth? You can hire all the coaches and buy all the courses you need (some will work, some won't), but in the end, you will need to let go of the buoy and swim.
 
 To try different strokes and see which one works for you.
 
-Don't rely on anyone sticking around to throw you a life jacket. 
+Don't rely on anyone sticking around to throw you a life jacket.
 
 (Though sometimes you'd get lucky and be surprised to find that someone's actually got your back. These people, you keep in your life, for life.)
 
 **While this "you're on your own" mentality is a fact of life, this does NOT in any way mean that we can't do it differently.**
 
 When you learn to swim, even do marathons later, and you're able to start teaching others ? (usually the ones who cheered you on from the sidelines, as they prepare to get in themselves)  
-**Be there for them, always**. 
+**Be there for them, always**.
 
-Just because you had to learn on your own doesn't mean you have to leave others to do the same. 
+Just because you had to learn on your own doesn't mean you have to leave others to do the same.
 
-The world would be a much better place if we all made real connections. 
+The world would be a much better place if we all made real connections.
 
 And this is what Nat does beautifully. And this is coming back 3x more than the average successful business.
 
@@ -124,26 +124,26 @@ Unless you have the budget to hire the best and most reputable companies?
 
 You have to do it yourself.
 
-There's just no other way around it. 
+There's just no other way around it.
 
-I learned design out of necessity, and luckily, I found that I had a knack and love for it. 
+I learned design out of necessity, and luckily, I found that I had a knack and love for it.
 
-I learned Facebook Ads and marketing because you need to be in the trenches to see what works and what doesn't. 
+I learned Facebook Ads and marketing because you need to be in the trenches to see what works and what doesn't.
 
-I had to learn how to sell, and not in the sleazy way. 
+I had to learn how to sell, and not in the sleazy way.
 
 Selling is actually the easiest thing.
 
 **Once you have a great product, because you listened to your customers?   
 It will sell itself.**
 
-For the longest time, I avoided writing copy and believed I sucked at it. 
+For the longest time, I avoided writing copy and believed I sucked at it.
 
-Until I relented and thought heck, I should at least learn the basics. 
+Until I relented and thought heck, I should at least learn the basics.
 
-And now, Nat hired me for that too. 
+And now, Nat hired me for that too.
 
-I help write copy for her Facebook Ads and her landing pages. 
+I help write copy for her Facebook Ads and her landing pages.
 
 I would spot the gems in her beautiful Facebook Page posts & emails, and put those in her ebooks. I just add some more structure and finishing touches.
 
@@ -161,16 +161,16 @@ To change the world in your own unique way that only you, and nobody else, can.
 
 We all have unique gifts and with the right roadmaps and strategies, I can help you bring it out for all the world to see.
 
-So when you're ready, come join me on The Brand Tour. 
+So when you're ready, come join me on The Brand Tour.
 
-Our first leg starts on 1st March 2017\. And there's still crazy priced early bird seats waiting for you if you [grab it quickly][4]. 
+Our first leg starts on 1st March 2017\. And there's still crazy priced early bird seats waiting for you if you [grab it quickly][4].
 
 Just as a hint: the early bird seats start at $98, and this is for a mentorship program not a course. Told you, I'm pretty crazy. ;)
 
 The catch? There's only one ticket each, incrementing to $598 on towards the early bird price, which will only be available until 28th February. After that, it's $898\.
 
 Why? Because I'm rewarding you for trusting me before the tour/ class starts.  
-So get in early at a price you'll never see again. 
+So get in early at a price you'll never see again.
 
 Just head on over here to get your seat now: [http://gretcho.link/ecourses][5]  
 Before I send this to the ad gods, who seem to be smiling down at me right this moment. ;)
@@ -178,6 +178,8 @@ Before I send this to the ad gods, who seem to be smiling down at me right this 
 Got any questions? Want something covered that I haven't listed?  
 Head on over to our [Design Lounge][6] or reply to this email and let me know your thoughts!
 [Grab your early bird ticket here][7]
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVzEEOgjAQQNG9pxjrupQEiJAAW49hhk4jJZKSzmDF06vBjdv3k98etYZLAAmQUsqQSEbPmQ2zIeRxCBjpG-3KEmb_crCFNX4k3Bm07g8t2-gXAdkW1ylxTzETPnBXBRxtp4zh8996YlPkufnRNXm6OckmPi3r4KmLqKsam7Ioq6GpXF6TU31r9md_eAMWBz1A" height="244" style=""></iframe>
 
 Full disclosure: This post may contain affiliate links, but I only promote products I myself love and recommend to people I love. And that includes you. ;) <3
 
