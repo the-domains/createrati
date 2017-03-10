@@ -24,8 +24,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://webgradients.com/'
 title: Free Gradients Collection by itmeo.com
-datePublished: '2017-02-17T00:38:00.811Z'
-dateModified: '2017-02-17T00:37:58.477Z'
+datePublished: '2017-03-10T13:39:16.094Z'
+dateModified: '2017-03-10T13:39:15.029Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-13-free-gradients-collection-by-itmeocom.md
