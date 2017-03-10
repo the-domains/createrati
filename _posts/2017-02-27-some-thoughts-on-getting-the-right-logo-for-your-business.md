@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'A long, long time ago, I started a blog.'
-dateModified: '2017-02-27T02:26:58.701Z'
-datePublished: '2017-02-27T02:27:01.308Z'
+dateModified: '2017-03-10T13:39:15.029Z'
+datePublished: '2017-03-10T13:39:16.065Z'
 title: Some Thoughts On Getting “The Right Logo” for Your Business
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-27-some-thoughts-on-getting-the-right-logo-for-your-business.md
 starred: false
 datePublishedOriginal: '2017-02-27T02:27:01.308Z'
-sourcePath: _posts/2017-02-27-some-thoughts-on-getting-the-right-logo-for-your-business.md
 _type: Blurb
 
 ---
@@ -61,6 +61,6 @@ But there's just one thing: you have to show up first.
 
 "We take information, from it synthesize insight, which in turn germinates ideas." ~ Maria Popova
 
-https://www.brainpickings.org/2011/08/01/networked-knowledge-combinatorial-creativity/
+Further reading at: https://www.brainpickings.org/2011/08/01/networked-knowledge-combinatorial-creativity/
 
 [0]: http://www.thebrandtour.com/ "The Brand Tour - DIY Branding Design Program & Online Course"
