@@ -2,7 +2,7 @@
 inFeed: true
 description: 'A long, long time ago, I started a blog.'
 dateModified: '2017-03-16T13:10:35.385Z'
-datePublished: '2017-03-16T13:10:35.722Z'
+datePublished: '2017-03-16T13:10:35.980Z'
 title: Some Thoughts On Getting “The Right Logo” for Your Business
 author: []
 publisher: {}
