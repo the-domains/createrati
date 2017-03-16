@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: 'A long, long time ago, I started a blog.'
-dateModified: '2017-03-10T13:39:15.029Z'
-datePublished: '2017-03-10T13:39:16.065Z'
+dateModified: '2017-03-16T13:10:35.385Z'
+datePublished: '2017-03-16T13:10:35.722Z'
 title: Some Thoughts On Getting “The Right Logo” for Your Business
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-02-27-some-thoughts-on-getting-the-right-logo-for-your-business.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-27T02:27:01.308Z'
-_type: Blurb
+url: some-thoughts-on-getting-the-right-logo-for-your-business/index.html
+_type: Article
 
 ---
 # Some Thoughts On Getting "The Right Logo" for Your Business
@@ -19,9 +21,11 @@ A long, long time ago, I started a blog.
 
 Then someone told me it wasn't focused enough.
 
+---
+
 Fair enough, I wasn't sure exactly what I wanted to do at the time. I left my corporate career to find (not follow) my passion.
 
-This page started as a blog page, and it evolved now to what my calling really is: design.
+This page started as a travel/fashion blog page, and it evolved now to what my calling really is: design.
 
 These days I worry about making sure my posts relate to design.
 
@@ -33,7 +37,7 @@ All these decisions can be tough.
 
 Which is better---posting more cohesive posts or just posting what I love?
 
-Are we just fitting the mould of what the world thinks we should be? 
+Are we just fitting the mould of what the world thinks we should be?
 
 Instead of listening to what it is that calls us. That excites us.
 
