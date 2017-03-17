@@ -1,25 +1,24 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-17T00:26:28.798Z'
-datePublished: '2017-03-17T00:26:30.475Z'
-title: >-
-  Wordpress vs Squarespace: The Single Best Reason Why You Should Choose One
-  Over The Other
+dateModified: '2017-03-17T00:52:27.035Z'
+datePublished: '2017-03-17T00:52:28.111Z'
+title: 'Wordpress vs Squarespace '
 author: []
 publisher: {}
 via: {}
-hasPage: true
+hasPage: false
 sourcePath: _posts/2017-03-16-its-not-the-tools-that-you-have-faith-in-tools-are-just-t.md
 starred: false
 datePublishedOriginal: '2017-03-16T23:56:07.704Z'
-url: wordpress-vs-squarespace-the-single-best-reason-why-you-sho/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d5c740-e44f-4c90-b9b2-0e3c8f44ae66.png)
 
-# Wordpress vs Squarespace: The Single Best Reason Why You Should Choose One Over The Other
+# Wordpress vs Squarespace 
+
+## The Single Best Reason Why You Should Choose One Over The Other
 
 ### "It's not the tools that you have faith in, tools are just tools. They work, or they don't work." ~Steve Jobs
 
