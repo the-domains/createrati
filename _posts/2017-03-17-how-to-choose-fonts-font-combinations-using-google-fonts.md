@@ -2,7 +2,7 @@
 inFeed: true
 description: ''
 dateModified: '2017-03-17T04:09:37.862Z'
-datePublished: '2017-03-17T04:09:38.324Z'
+datePublished: '2017-03-17T04:09:38.333Z'
 title: >-
   How To Choose Fonts + Font Combinations Using Google Fonts For Your Business
   or Blog
