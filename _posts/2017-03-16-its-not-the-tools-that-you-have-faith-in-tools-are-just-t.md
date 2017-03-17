@@ -1,17 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-17T01:17:57.620Z'
-datePublished: '2017-03-17T01:17:58.928Z'
+dateModified: '2017-03-17T01:46:58.131Z'
+datePublished: '2017-03-17T01:47:00.367Z'
 title: 'Wordpress vs Squarespace: What’s Best for Your Blog or Business'
 author: []
 publisher: {}
 via: {}
-hasPage: false
+hasPage: true
 sourcePath: _posts/2017-03-16-its-not-the-tools-that-you-have-faith-in-tools-are-just-t.md
 starred: false
 datePublishedOriginal: '2017-03-16T23:56:07.704Z'
-_type: Blurb
+url: wordpress-vs-squarespace-whats-best-for-your-blog-or-busin/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d5c740-e44f-4c90-b9b2-0e3c8f44ae66.png)
