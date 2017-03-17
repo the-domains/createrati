@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-17T00:26:20.389Z'
-datePublished: '2017-03-17T00:26:21.444Z'
+dateModified: '2017-03-17T00:26:28.798Z'
+datePublished: '2017-03-17T00:26:30.475Z'
 title: >-
   Wordpress vs Squarespace: The Single Best Reason Why You Should Choose One
   Over The Other
