@@ -4,9 +4,16 @@
         <description><![CDATA[CREATERATI]]></description>
         <link>http://blog.eightcorners.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Mar 2017 03:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2017 03:35:29 GMT</lastBuildDate>
         <atom:link href="http://blog.eightcorners.co/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Mar 2017 03:33:53 GMT</pubDate>
+        <pubDate>Fri, 17 Mar 2017 03:34:50 GMT</pubDate>
+        <item>
+            <title><![CDATA[How To Choose Fonts + Font Combinations Using  Google Fonts For Your Business or Blog]]></title>
+            <description><![CDATA[<h1>How To Choose Fonts + Font Combinations Using  Google Fonts For Your Business or Blog</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0ba78e6-6c9a-46be-95d3-83d94a5227f9.png">,<h2>Should you serif or sans the serif?</h2>]]></description>
+            <link>http://blog.eightcorners.co/how-to-choose-fonts-font-combinations-using-google-fonts/index.html</link>
+            <guid isPermaLink="false">af77388f-bfec-4743-b5b4-9f14fd543886</guid>
+            <pubDate>Fri, 17 Mar 2017 03:33:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wordpress vs Squarespace: For Blog or Business]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d5c740-e44f-4c90-b9b2-0e3c8f44ae66.png">,<h1>Wordpress vs Squarespace: For Blog or Business</h1>,<h2>The Single Reason Why You Should Choose One Over The Other</h2>,<h3>“It's not the tools that you have faith in, tools are just tools. They work, or they don't work.” ~Steve Jobs</h3>]]></description>
@@ -71,13 +78,6 @@
             <link>http://blog.eightcorners.co/on-the-importance-of-negative-spacein-design-and-life/index.html</link>
             <guid isPermaLink="false">68568718-cf12-4070-bed2-437eed1f1f00</guid>
             <pubDate>Tue, 24 Jan 2017 04:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I Design With Negative Space]]></title>
-            <description><![CDATA[<h1>How I Design With Negative Space</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b2e9ff6-1b40-44f8-89e8-e32062039fa5.png" title="Guido&apos;s Window" alt="Second in this #createdaily #designdaily series is a sketch of Guido&apos;s window.">]]></description>
-            <link>http://blog.eightcorners.co/how-i-design-with-negative-space/index.html</link>
-            <guid isPermaLink="false">87d4041c-f5ae-4a05-950c-18091ed9acd7</guid>
-            <pubDate>Thu, 19 Jan 2017 04:53:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
