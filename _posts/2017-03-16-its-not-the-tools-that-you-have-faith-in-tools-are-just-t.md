@@ -1,17 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-17T01:55:28.610Z'
-datePublished: '2017-03-17T01:55:30.519Z'
+dateModified: '2017-03-17T03:02:37.889Z'
+datePublished: '2017-03-17T03:02:39.213Z'
 title: 'Wordpress vs Squarespace: For Blog or Business'
 author: []
 publisher: {}
 via: {}
-hasPage: false
+hasPage: true
 sourcePath: _posts/2017-03-16-its-not-the-tools-that-you-have-faith-in-tools-are-just-t.md
 starred: false
 datePublishedOriginal: '2017-03-16T23:56:07.704Z'
-_type: Blurb
+url: wordpress-vs-squarespace-for-blog-or-business/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d5c740-e44f-4c90-b9b2-0e3c8f44ae66.png)
