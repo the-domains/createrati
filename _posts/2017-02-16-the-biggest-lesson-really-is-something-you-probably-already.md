@@ -4,8 +4,8 @@ description: >-
   Today, I thought I would write a few key lessons I’ve learned in business, not
   just design.I want to not only share this with you but to also remind myself
   of these lessons years from now.
-dateModified: '2017-03-17T01:06:51.643Z'
-datePublished: '2017-03-17T01:06:53.327Z'
+dateModified: '2017-03-17T03:34:14.981Z'
+datePublished: '2017-03-17T03:34:16.318Z'
 title: Let's talk real business + some hard lessons I learned.
 author: []
 publisher: {}
