@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'DIY Design It Yourself - Create Your Own eBook Template, PDF Template'
-dateModified: '2017-03-10T13:39:15.029Z'
-datePublished: '2017-03-10T13:39:16.032Z'
+dateModified: '2017-03-17T00:21:27.645Z'
+datePublished: '2017-03-17T00:21:28.518Z'
 title: 'Tutorial: How to Change The Title Font in Google Slides'
 author: []
 publisher: {}
