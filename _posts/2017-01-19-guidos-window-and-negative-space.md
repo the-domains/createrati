@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Second in this #createdaily #designdaily series is a sketch of Guido''s window.'
-dateModified: '2017-03-17T01:06:51.643Z'
-datePublished: '2017-03-17T01:06:53.327Z'
+dateModified: '2017-03-17T03:34:14.981Z'
+datePublished: '2017-03-17T03:34:16.355Z'
 title: How I Design With Negative Space
 author: []
 publisher: {}
