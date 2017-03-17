@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-17T03:58:07.742Z'
-datePublished: '2017-03-17T03:58:08.704Z'
+dateModified: '2017-03-17T04:09:37.862Z'
+datePublished: '2017-03-17T04:09:38.324Z'
 title: >-
   How To Choose Fonts + Font Combinations Using Google Fonts For Your Business
   or Blog
@@ -29,4 +29,8 @@ _type: Article
 
 FREE VIDEO TUTORIAL: How to choose fonts + font combos for your business website or blog using open-source Google Fonts.
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fox2b6AtDr3w%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dox2b6AtDr3w&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fox2b6AtDr3w%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKU4uyiwoUSguSrZVyigpKSi20tdPLkjN1cvM1y_xzveM8jSJCtfLKrYvtzU0sjBQy7A1NzJQsrPRh2i0AwDXQxUI" height="800" style=""></iframe>
+
+Video won't work? You can also watch it [here][0]. 
+
+[0]: https://youtu.be/ox2b6AtDr3w "How To Choose Fonts + Font Combinations Using Free Google Fonts For Your Business or Blog"
