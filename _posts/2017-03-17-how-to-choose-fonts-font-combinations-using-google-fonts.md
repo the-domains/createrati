@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-17T03:33:51.218Z'
-datePublished: '2017-03-17T03:33:52.053Z'
+dateModified: '2017-03-17T03:34:14.981Z'
+datePublished: '2017-03-17T03:34:16.341Z'
 title: >-
   How To Choose Fonts + Font Combinations Using  Google Fonts For Your Business
   or Blog
@@ -13,9 +13,9 @@ author:
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-17-how-to-choose-fonts-font-combinations-using-google-fonts.md
 starred: false
 datePublishedOriginal: '2017-03-17T03:33:52.053Z'
-sourcePath: _posts/2017-03-17-how-to-choose-fonts-font-combinations-using-google-fonts.md
 url: how-to-choose-fonts-font-combinations-using-google-fonts/index.html
 _type: Article
 
