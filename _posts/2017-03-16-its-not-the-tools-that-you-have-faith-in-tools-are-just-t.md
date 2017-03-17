@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-17T01:05:40.050Z'
-datePublished: '2017-03-17T01:05:41.194Z'
+dateModified: '2017-03-17T01:05:44.020Z'
+datePublished: '2017-03-17T01:05:44.594Z'
 title: Wordpress vs Squarespace
 author: []
 publisher: {}
