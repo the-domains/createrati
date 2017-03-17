@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Ever had someone say this to you? Or of you?
-dateModified: '2017-03-10T13:39:15.029Z'
-datePublished: '2017-03-10T13:39:15.999Z'
+dateModified: '2017-03-17T00:21:27.645Z'
+datePublished: '2017-03-17T00:21:28.531Z'
 title: Your hair is a mess.
 author: []
 publisher: {}
