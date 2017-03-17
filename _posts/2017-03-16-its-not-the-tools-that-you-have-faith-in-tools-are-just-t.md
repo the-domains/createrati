@@ -1,19 +1,20 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-17T00:24:36.120Z'
-datePublished: '2017-03-17T00:24:37.126Z'
+dateModified: '2017-03-17T00:26:20.389Z'
+datePublished: '2017-03-17T00:26:21.444Z'
 title: >-
   Wordpress vs Squarespace: The Single Best Reason Why You Should Choose One
   Over The Other
 author: []
 publisher: {}
 via: {}
-hasPage: false
+hasPage: true
 sourcePath: _posts/2017-03-16-its-not-the-tools-that-you-have-faith-in-tools-are-just-t.md
 starred: false
 datePublishedOriginal: '2017-03-16T23:56:07.704Z'
-_type: Blurb
+url: wordpress-vs-squarespace-the-single-best-reason-why-you-sho/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d5c740-e44f-4c90-b9b2-0e3c8f44ae66.png)
@@ -41,7 +42,6 @@ It was like a bad addiction that I kept recurring to...so one day, I went cold t
 After some meditation and much-needed hiatus from all things social media and the Internet, like life, I realised one thing from a KonMari decluttering session: that everything in life, even your choice of tools for your business, just all boils down to one question: Which one brings you joy.
 
 Back to the topic at hand: should you go with Wordpress vs Squarespace?  
-  
 Instead of succumbing to the overly biased comparison articles.I'm sure you've seen them: when you read a paragraph or land on their site and instantly know which direction the article is going to lean towards.
 
 If you're caught unawares, this could lead you to confirmation bias. Which may or may not work in your favour depending on whether you're using logic vs intuition.
