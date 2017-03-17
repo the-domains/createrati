@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-17T01:02:37.353Z'
-datePublished: '2017-03-17T01:02:38.446Z'
+dateModified: '2017-03-17T01:05:40.050Z'
+datePublished: '2017-03-17T01:05:41.194Z'
 title: Wordpress vs Squarespace
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ _type: Article
 
 # Wordpress vs Squarespace
 
-## The Single Best Reason Why You Should Choose One Over The Other
+## The Single Best Reason Why You Should Choose One Over The Other for Your Blog or Business
 
 ### "It's not the tools that you have faith in, tools are just tools. They work, or they don't work." ~Steve Jobs
 
