@@ -1,8 +1,8 @@
 ---
 description: One of my fave quotes?
 author: []
-datePublished: '2017-03-17T00:26:30.444Z'
-dateModified: '2017-03-17T00:26:28.798Z'
+datePublished: '2017-03-17T01:06:53.354Z'
+dateModified: '2017-03-17T01:06:51.643Z'
 title: 8 Canva Alternatives You Didn’t Know About
 publisher: {}
 via: {}
