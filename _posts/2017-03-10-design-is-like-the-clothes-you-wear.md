@@ -4,8 +4,8 @@ description: >-
   This week, I organised a little workshop and got the dates confused following
   a change, and emails that were queued originally got sent out even after I
   made the corrections. 
-dateModified: '2017-03-17T00:26:28.798Z'
-datePublished: '2017-03-17T00:26:30.511Z'
+dateModified: '2017-03-17T01:06:51.643Z'
+datePublished: '2017-03-17T01:06:53.409Z'
 title: Design is like the clothes you wear.
 author: []
 publisher: {}
