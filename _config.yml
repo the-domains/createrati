@@ -24,7 +24,7 @@ logo: >-
 name: eight corners blog
 url: 'https://blog.eightcorners.co'
 navigation:
-  - name: home
+  - name: HOME
     url: 'https://eightcorners.co'
     type: external
   - name: SHOP ebook templates
