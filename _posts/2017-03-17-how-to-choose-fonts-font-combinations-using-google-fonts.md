@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-21T14:22:31.467Z'
-datePublished: '2017-03-21T14:22:32.285Z'
+dateModified: '2017-03-21T14:54:25.691Z'
+datePublished: '2017-03-21T14:54:26.877Z'
 title: >-
   How To Choose Fonts + Font Combinations Using Google Fonts For Your Business
   or Blog
@@ -33,7 +33,7 @@ FREE VIDEO TUTORIAL: How to choose fonts + font combos for your business website
 
 Video won't work? You can also watch it [here][0].
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9ks9KAzEQxu99iqFXSXcrKrL4B1vaKggFqYKnkk3HTXCbWZJZSm99DUFfrk9isrWwBds9ZMJk5pvfl82NRrm460D4bpbIEipHFTpe33apyHhdYRcUWUbLt13p2KgyZJLjHYbLdssjrWBGMNREHmEc0h7OmghDWubGSjZkPbx6YwuYEBXlvmxMDt6pdjCowyF6DyExKKnonAJYoFfOVFG1hTF-GY1g9jqbvjw9PGcQqZhA7ag-_qhiDC3LnHzYO1jH4fl--ApzbxgjRB4goG6Iw2QrfChUeEDfezMLJFiR3W6-OET3eR_dgJIWZOnDkWSlwTBodNg7Zal2ZcuKZq6yJIkMPTSFZkXOovM9RYmmlWASO1-i8dWsQrXuWjTkomhod0XJqfHR9dzKZeu3bjff_83fbn6O6fw9nayq89J4jYs5m7Zi9zztX4j0WvTPZ2mapf3s8uosbtKjaHtJWbMmdwA3cRguFy1MnfEiPD5bhGwQ-gVWAwUa" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzdVN1q2zAUvs9TiEB3U-S_2IkTkpa2NF3ZoKOkg10V2ZYtUVsykryQXfU1BtvL9Ul25CSr0zZlDLqLBRPJx9L5vu_8TRkl2VEPwW9aUUNQrWRNlVnN-rKYmFVN-yiVwlBhZn2iDE9LsLj7b3BTdq-8l0u0kOiMSakpmoNZo8N2RWeySrgghkuh0Y3mokAXUhbl9thcKvRFNgqdNvCRao3AcFrKovcagYzqVPHaeu3QmF-fn6PFzeLq-vLk4wRZVkaidM0q37CyK1ypEqlhr9DKgidb8CVNNDfUkkiABGpaxoAssIaDKd1h73zmGZVoKcXD_XcDq7o7tmpQSgQipYZPxKQMcYMYVdR5TVKjyo4UZkw9cV3LwaG8YCaVSlClnVS6TC6xkXitC7e62n-cdmKNW-a4aNmuD7mvwVvVt4JUnbQ-3P94Cf_h_uc-P5vSmdRNUnLNaHZreNdjP_D8EHsx9oOF5008fxIND-3G20tt65I0hkm1Q-5CUQguFehKcY2h-EQBVuuo98cCz602KNJWXFt3GxfTjH-FvNFKp-Ck3dk--Z0ZDcgVcaQq3JNNw3QF2PMWftb_p3nVNRTeI_au3LdrU9SiJ6tnBJ5mrf9Czh7Z86ro3OUVKYC9Vuk6bBriBifyUjrQTPKuIXUNYavcQpGauXHkJ3Ge-REdjbzEd8dROPSCPPFIHtE4jgZR7AckCcORl2ZxPnZrorVhSjYFc2pRHHNRN2bWIh0MTg6COTyGUVwonkHUqcIbFY4ewDteUm1w4JCKfJOCLG0KK7iSeAkZxXSIh-mY4HCYUDyOsgGOB9k4JFEQjPKxxXu35JlhMz8MofhJCbHpfVhJmFcQavC8N6fd0Xf0FhmduhZxA77tgjW2oiUxNLsEQ_-vmqP1-aw7mKL5W7XGRocLQv5fSU9LBBR92o7g3ek7wt7ghel7tE362usvvQnLEg" height="244" style=""></iframe>
 
 
 
