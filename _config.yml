@@ -96,3 +96,6 @@ purpose:
   - type: external
     url: 'http://thebrandtour.com'
     label: Join me on The Brand Tour
+opengraph:
+  appId: '1276522442415841'
+  type: article
