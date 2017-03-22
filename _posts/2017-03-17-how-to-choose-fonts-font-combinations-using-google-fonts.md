@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: How To Choose Free Fonts For Your Business or Blog
-dateModified: '2017-03-22T10:03:39.711Z'
-datePublished: '2017-03-22T10:03:40.737Z'
+dateModified: '2017-03-22T10:30:40.986Z'
+datePublished: '2017-03-22T10:30:42.197Z'
 title: >-
   How To Choose Fonts + Font Combinations Using Google Fonts For Your Business
   or Blog
@@ -28,7 +28,7 @@ _type: Article
 
 ## Should you serif or sans the serif?
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVk01ugzAQhfc5hXMAYI8oi_6oqlQpUZV9ZPAULBls2UOU7LhDN-31OEltgihE_DQ7M8_ve2OPibaeR_a8RNBgkHzwNHefhnhevNlEBSAlqbRyiQ9N_UM18lSAXRGlpQKNF1eWWYgX5cpB74Kz0uHAyijSUEmDPnKcRnR1y4iSkH-6YNZbEyEz35GfwaSaK-SytFq8FDfjuQ1mI_UaD8JAsAhndzIDd6b1distJnDX6nJDrX3ucg1HOJa0gFVMOyNaYS71Lacbf9ir_yAhL-zLooWag6kqEdzkwI5u6xA64D2-717JYbd_e2rq70mMgXQ0QCGlIicqKjDjhgRN7HBdNyeqndQW1p5Su8nvLnCyAaTZ36Rdul1tm_qLvJRs8hezWvwLRpNx-Q" height="2" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVVM1u2kAQvucpJlyjtU3UVpVFUxUKNFIkIkQq9RSt7Y29qu2xdteh3HiHXlIpfTmepLOGUDuyTcuBXWZ2vu-bP0bnjMGtzI1QQhtYyjCxPzUwdnV2NsqE4RAiuXPzYbf9xZWRYSroBoXCQiizsWaMfbMprNk9RokfhfJroRE33C9QG8dI0w5xsBPGKPDlgyWOjqFBirFjkT8LHSpZGIk5-a766DpiXhNHDe-eXqRauL3g0X9iujan03JLlbbA7a39gqrwruJqacR9zjNxEqbqES9Nguo1zqH9_tH7D0hGZjRZPCu6wIoySKVORHRvn9ZBa3jjm8UcVovb68lu-9QKo0XYaGCKWMAjT0uhm4JSHlBzrZpHrqyrMpwapeqRcyhgqwDD47-dtux0O99tf8I0j1pXjHy0LUCfPe8RdHDYp8GxAoMDyQAIvyvCdr4W8gXXsEKYJIhawIzMGi6qEyaYBTLntl4a7rTMY5gjxunLsxkq-IalgnFJTqE1kGFM49XHX5v4morZcjqF1d1qsbz-dOODFWUQwr2oh4Moe1JIFqCmu4KN5Q5euNcisNNrNdgRh7ISTMw50_QwFA3xzlcZCYR1NQqGTvX9o00GQp4DTzW5uKEWSAMJdcTpS4m2rpZKYkzhu261ZkLGiQlR5UJpJ0Q3wTUzyPZ5sSqv6puFtVKzSjmLK7X7R24f_XFnB7VVeG7j321_d-G0r1ktrUtv-IZ579nwcuV5vjf03767sBevU1rzb6Ahbq4EFVfksFBSM5q9nJbimYD-ACmsdQY" height="2" style=""></iframe>
 
 ---
 
