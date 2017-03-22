@@ -1,16 +1,19 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-03-22T06:14:03.745Z'
-datePublished: '2017-03-22T06:14:05.903Z'
+description: How To Choose Free Fonts For Your Business or Blog
+dateModified: '2017-03-22T09:34:59.617Z'
+datePublished: '2017-03-22T09:35:01.391Z'
 title: >-
   How To Choose Fonts + Font Combinations Using Google Fonts For Your Business
   or Blog
 author:
-  - name: eightcorners
-    url: 'https://www.youtube.com/channel/UC1gE3Z6ovdzLtVJX9NXxoMg'
-    avatar: {}
-publisher: {}
+  - name: Gretchen Oris-Chong
+    url: >-
+      http://blog.eightcorners.co/how-to-choose-fonts-font-combinations-using-google-fonts
+publisher:
+  name: Eight Corners
+  url: >-
+    http://blog.eightcorners.co/how-to-choose-fonts-font-combinations-using-google-fonts
 via: {}
 hasPage: true
 sourcePath: _posts/2017-03-17-how-to-choose-fonts-font-combinations-using-google-fonts.md
@@ -21,7 +24,7 @@ _type: Article
 
 ---
 # How To Choose Fonts + Font Combinations Using Google Fonts For Your Business or Blog
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0ba78e6-6c9a-46be-95d3-83d94a5227f9.png)
+![How To Choose Free Fonts For Your Business or Blog](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0ba78e6-6c9a-46be-95d3-83d94a5227f9.png)
 
 ## Should you serif or sans the serif?
 
